@@ -1,1 +1,0 @@
-# dynamicparallax.github.io
