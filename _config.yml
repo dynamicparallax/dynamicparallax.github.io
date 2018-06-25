@@ -27,7 +27,7 @@ github_username:  dynamicparallax
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll-theme-hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
