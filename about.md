@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Categories
+title: About
 header: Posts By Category
 group: navigation
 ---
