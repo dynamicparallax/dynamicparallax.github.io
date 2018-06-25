@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 title: Tools
 permalink: /about/
 ---
