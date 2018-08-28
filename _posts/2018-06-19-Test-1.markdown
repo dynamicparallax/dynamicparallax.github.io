@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Hello"
-date:   2018-06-20 06:25:15 -0400
-categories: test post
----
-Hello World
