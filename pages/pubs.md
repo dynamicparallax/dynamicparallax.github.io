@@ -26,10 +26,7 @@ Penetration Testing: A Hands-On Introduction to Hacking
 The Practice of Network Security Monitoring: Understanding Incident Detection and Response
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Practice-Network-Security-Monitoring-Understanding/dp/1593275099/ref=sr_1_1?ie=UTF8&qid=1483405822&sr=8-1&keywords=The+Practice+of+Network+Security+Monitoring)
 
-
-
-### <a name="whitepapers"></a>whitepapers
-
+### <a name="whitepapers"></a>whitepaper
 
 #### 2017
 
@@ -49,7 +46,6 @@ FLEXIDIE by Leopard Boy and Decepticons (2016)
 Rocking the pocket book: Hacking chemical plants for competition and extortion (2015)
 [![pdf](icons16/pdf-icon.png)](https://www.blackhat.com/docs/us-15/materials/us-15-Krotofil-Rocking-The-Pocket-Book-Hacking-Chemical-Plant-For-Competition-And-Extortion-wp.pdf)
 
-
 ### <a name="podcasts"></a>podcasts
 
 Risky.biz
@@ -57,7 +53,7 @@ Risky.biz
 
 ### <a name="twitter"></a>twitter
 
-@swiftonsecurity
+<a href="https://twitter.com/swiftonsecurity">@swiftonsecurity</a>
 
 ### <a name="ctf"></a>ctf
 
