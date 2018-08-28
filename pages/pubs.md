@@ -12,8 +12,8 @@ description: Chris Nadeau's online resources
             <li><a href="#whitepapers">whitepapers</a></li>
             <li><a href="#podcasts">podcasts</a></li>
             <li><a href="#twitter">twitter</a></li>
-            <li><a href="#CTF">Capture The Flags</a></li>
-            <li><a href="#Security Training">Security Training</a></li>
+            <li><a href="#CTF">CTF</a></li>
+            <li><a href="#training">training</a></li>
         </ul>
     </div>
 </div>
@@ -23,6 +23,10 @@ description: Chris Nadeau's online resources
 
 Penetration Testing: A Hands-On Introduction to Hacking
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
+
+The Practice of Network Security Monitoring: Understanding Incident Detection and Response
+[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Practice-Network-Security-Monitoring-Understanding/dp/1593275099/ref=sr_1_1?ie=UTF8&qid=1483405822&sr=8-1&keywords=The+Practice+of+Network+Security+Monitoring)
+
 
 
 ### <a name="articles"></a>journal articles
