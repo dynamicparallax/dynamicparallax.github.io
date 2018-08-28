@@ -1,11 +1,7 @@
 ---
 layout: page
 title: about
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
----
-
-Karl Broman is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
+description: Chris Nadeau Information Security Professional; research in ICS/SCADA Security, Incident Response, and DLP(https://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
 research in statistical genetics; developer of
 [R/qtl](https://rqtl.org) (for [R](https://www.r-project.org)).
