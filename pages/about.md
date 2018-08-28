@@ -24,7 +24,7 @@ Chris Nadeau is a security researcher who specializes in ICS/SCADA Network Secur
 
         <div class="span2">
         <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
+            <img src="../assets/pics/Chris_2016-03-small.jpg"
                   title="Chris Nadeau" alt="Chris Nadeau"/></a>
         </div>
     </div>
