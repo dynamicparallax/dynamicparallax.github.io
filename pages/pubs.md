@@ -1,31 +1,29 @@
 ---
 layout: page
-title: publications
-description: Karl Broman's publications
+title: resources
+description: Chris Nadeau's online resources
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#book">book</a></li>
+            <li><a href="#books">books</a></li>
             <li><a href="#articles">articles</a></li>
-            <li><a href="#editorials">editorials</a></li>
-            <li><a href="#letters">letters</a></li>
-            <li><a href="#chapters">chapters</a></li>
-            <li><a href="#techreports">tech reports</a></li>
-            <li><a href="#thesis">dissertation</a></li>
+            <li><a href="#whitepapers">whitepapers</a></li>
+            <li><a href="#podcasts">podcasts</a></li>
+            <li><a href="#twitter">twitter</a></li>
+            <li><a href="#CTF">Capture The Flags</a></li>
+            <li><a href="#Security Training">Security Training</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="book"></a>book
+### <a name="books"></a>books
 
-**Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York
-[![Online complements](icons16/html-icon.png)](http://www.rqtl.org/book)
-[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0387921249?ie=UTF8&tag=7210-20)
-[![Springer](icons16/springer-icon.png)](http://www.springer.com/978-0-387-92124-2)
-[![R/qtl](icons16/R-icon.png)](http://www.rqtl.org)
+Penetration Testing: A Hands-On Introduction to Hacking
+[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
+
 
 ### <a name="articles"></a>journal articles
 
