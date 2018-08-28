@@ -31,7 +31,7 @@ The Practice of Network Security Monitoring: Understanding Incident Detection an
 #### 2017
 
 Smashing The Stack For Fun And Profit (2017)
-[![pdf](icons16/pdf-icon.png)](http://www.cs.umd.edu/class/fall2017/cmsc414/readings/stack-smashing.pdf)
+[![pdf](icons16/pdf-icon.png)](a href=http://www.cs.umd.edu/class/fall2017/cmsc414/readings/stack-smashing.pdf target="_blank")
 
 #### 2016
 
@@ -59,18 +59,11 @@ Risky.biz
 
 Over the Wire
 [![Springer](icons16/springer-icon.png)](http://link.springer.com/book/10.1007/978-1-4614-1347-9)
-[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/146141346X?ie=UTF8&tag=7210-20)
-\[**Note**: The [PDFs at Springer](http://link.springer.com/book/10.1007/978-1-4614-1347-9)
-are free.\]
 
 ### <a name="training"></a>training
 
 FedVTE
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
-[![pdf (1.5M)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tr_214.pdf)
 
 SANS
-for QTL mapping.  Working paper 125, Department of Biostatistics,
-Johns Hopkins University, Baltimore, MD
 [![Abstract](icons16/pubmed-icon.png)](https://biostats.bepress.com/jhubiostat/paper125)
-[![pdf (94k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/hmm.pdf)
