@@ -13,18 +13,11 @@ Chris Nadeau is a security researcher who specializes in ICS/SCADA Network Secur
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
-            <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            1234<br/>
-            Brookline, New Hampshire 03033<br/>
-            USA<br/><br/>
-
+            Chris Nadeau<br/>
             <div id="hide_email">
-            Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Email: <code>ineed</code><b>I</b><code>chris</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>gm</code><b>leave
+            </b><code>ail</code><b>me</b><code>.</code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
             Phone: 978-212-9746
             </div>
         </div>
