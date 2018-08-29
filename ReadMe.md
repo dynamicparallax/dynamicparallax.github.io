@@ -1,6 +1,6 @@
 ## Chris Nadeau&rsquo;s website
 
-See [parallaxsec.com](https://Parallaxsec.com).
+See [parallaxsec.com](http://Parallaxsec.com).
 
 ---
 
