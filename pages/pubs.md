@@ -49,7 +49,7 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 ### <a name="podcasts"></a>podcasts
 
 Risky.biz
-[![doi](icons16/doi-icon.png)](https://risky.biz/)
+[![video](icons16/video-icon.png)](https://risky.biz/)
 
 ### <a name="twitter"></a>twitter
 
