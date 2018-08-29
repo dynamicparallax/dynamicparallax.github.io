@@ -31,7 +31,7 @@ The Practice of Network Security Monitoring: Understanding Incident Detection an
 #### 2017
 
 Smashing The Stack For Fun And Profit (2017)
-[![pdf](icons16/pdf-icon.png)](a href=http://www.cs.umd.edu/class/fall2017/cmsc414/readings/stack-smashing.pdf target="_blank")
+[![pdf](icons16/pdf-icon.png)]("http://www.cs.umd.edu/class/fall2017/cmsc414/readings/stack-smashing.pdf")
 
 #### 2016
 
