@@ -26,7 +26,7 @@ Penetration Testing: A Hands-On Introduction to Hacking
 The Practice of Network Security Monitoring: Understanding Incident Detection and Response
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Practice-Network-Security-Monitoring-Understanding/dp/1593275099/ref=sr_1_1?ie=UTF8&qid=1483405822&sr=8-1&keywords=The+Practice+of+Network+Security+Monitoring)
 
-### <a name="whitepapers"></a>whitepaper
+### <a name="whitepapers"></a>whitepapers
 
 #### 2017
 
