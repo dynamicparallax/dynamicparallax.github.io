@@ -48,7 +48,8 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 
 ### <a name="podcasts"></a>podcasts
 
-<a href="https://risky.biz/">Risky.biz</a>Risky.biz</a>
+<a href="https://risky.biz" target="_blank">Risky.biz</a>
+<a href="https://risky.biz/">Risky.biz</a>
 Defensive Security
 [![video](icons16/video-icon.png)](https://risky.biz/)
 Pauls Security Weekly
