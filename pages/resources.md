@@ -49,15 +49,18 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 ### <a name="podcasts"></a>podcasts
 
 <a href="https://risky.biz" target="_blank">Risky.biz</a>
-<a href="https://risky.biz/">Risky.biz</a>
-Defensive Security
-[![video](icons16/video-icon.png)](https://risky.biz/)
-Pauls Security Weekly
-Brakeing Down Security
-Brakeing Down Incident Response
-SANS Stormcast
-Darknet Diaries
-Pauls Security Weekly
+
+<a href="https://defensivesecurity.org/" target="_blank">Defensive Securityz</a>
+
+<a href="https://www.brakeingsecurity.com/" target="_blank">Brakeing Down Security</a>
+
+<a href="http://www.brakeingdownir.libsyn.com/" target="_blank">Brakeing Down Incident Response</a>
+
+<a href="https://isc.sans.edu/podcast.html" target="_blank">SANS Stormcast</a>
+
+<a href="https://darknetdiaries.com/" target="_blank">Darknet Diaries</a>
+
+<a href="https://securityweekly.com/shows/" target="_blank">Pauls Security Weekly</a>
 
 ### <a name="twitter"></a>twitter
 
