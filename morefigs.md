@@ -9,7 +9,7 @@ title: Chris Nadeau
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/dynamicparallax">github</a></li>
           <li><a href="https://kbroman.org/blog">blog</a></li>
-          <li><a href="https://twitter.com/dynpax">@kdynpax</a></li>
+          <li><a href="https://twitter.com/dynpax">@dynpax</a></li>
       </ul>
   </div>
 </div>
