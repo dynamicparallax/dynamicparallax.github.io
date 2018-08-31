@@ -6,15 +6,8 @@ description: Links to talks
 
 ###  2018
 
-Steps toward reproducible research
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr.pdf)
-[![pdf w/notes](icons16/notes-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/steps2rr_withnotes.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_ReproRes)<br/>
-[Summer Research Program in Biomedical Data Science](https://www.biostat.wisc.edu/content/summer-research),
-[Department of Biostatistics & Medical Informatics](https://www.biostat.wisc.edu),
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu) (_July 11_)
-
-
+From Workstation to Domain Admin -- Why Secure Administration Isn't Secure
+[![pdf](icons16/pdf-icon.png)](https://i.blackhat.com/us-18/Wed-August-8/us-18-Metcalf-From-Workstation-To-Domain-Admin-Why-Secure-Administration-Isnt-Secure.pdf)
 
 
 ###  2017
