@@ -50,7 +50,7 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 
 <a href="https://risky.biz" target="_blank">Risky.biz</a>
 
-<a href="https://defensivesecurity.org/" target="_blank">Defensive Securityz</a>
+<a href="https://defensivesecurity.org/" target="_blank">Defensive Security</a>
 
 <a href="https://www.brakeingsecurity.com/" target="_blank">Brakeing Down Security</a>
 
