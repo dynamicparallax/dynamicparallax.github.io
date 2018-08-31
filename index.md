@@ -8,7 +8,7 @@ keywords: Nadeau, SCADA, Infosec, security, architect, DFIR
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/nadeau_cv.pdf">cv</a></li>
           <li><a href="https://github.com/dynamicparallax">github</a></li>
           <li><a href="https://dynamicparallax.wordpress.com/">blog</a></li>
           <li><a href="https://twitter.com/dynpax">@dynpax</a></li>
@@ -44,10 +44,4 @@ keywords: Nadeau, SCADA, Infosec, security, architect, DFIR
 </tr>
 </table>
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="morefigs.html">see more figures</a></li>
-      </ul>
-  </div>
 </div>
