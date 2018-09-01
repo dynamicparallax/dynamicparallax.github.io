@@ -65,6 +65,17 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 ### <a name="twitter"></a>twitter
 
 <a href="https://twitter.com/swiftonsecurity">@swiftonsecurity</a>
+<a href="https://twitter.com/swiftonsecurity">@x0rz</a>
+<a href="https://twitter.com/swiftonsecurity">@PyroTek3</a>
+<a href="https://twitter.com/swiftonsecurity">@Carlos_Perez</a>
+<a href="https://twitter.com/swiftonsecurity">@HackingDave</a>
+<a href="https://twitter.com/swiftonsecurity">@subTee</a>
+<a href="https://twitter.com/swiftonsecurity">@malwareunicorn</a>
+<a href="https://twitter.com/swiftonsecurity">@Laughing_Mantis</a>
+<a href="https://twitter.com/swiftonsecurity">@bettersafetynet</a>
+<a href="https://twitter.com/swiftonsecurity">@dafthack</a>
+<a href="https://twitter.com/swiftonsecurity">@mattifestation</a>
+<a href="https://twitter.com/swiftonsecurity">@troyhunt</a>
 
 ### <a name="ctf"></a>ctf
 
