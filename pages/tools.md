@@ -7,7 +7,7 @@ description: Infosec Tools
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="https://github.com/dynamicparallax">github</a></li>
+            <li><a href="https://github.com/dynamicparallax?tab=repositories">github</a></li>
         </ul>
     </div>
 </div>
