@@ -22,6 +22,9 @@ From Workstation to Domain Admin -- Why Secure Administration Isn't Secure
 <br/>
 University of Chicago (_17 Nov_)
 
+### 2014
+How not to suck at pen testing John Strand [![pdf](icons16/pdf-icon.png)](https://www.youtube.com/watch?v=Yo4oP2eyDtI
+
 
 
 
