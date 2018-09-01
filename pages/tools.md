@@ -31,5 +31,5 @@ description: Infosec Tools
 IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
 
 Ollydbg
-<a href="http://www.ollydbg.de/" target="_blank">![pdf](icons16/pdf-icon.png)</a><a href="http://www.ollydbg.de/" target="_blank">![pdf](icons16/pdf-icon.png)</a>
+<a href="http://www.ollydbg.de/" target="_blank">![pdf](icons16/pdf-icon.png)</a><a href="http://www.ollydbg.de/" target="_blank">![git](icons16/github-icon.png)</a>
 ---
