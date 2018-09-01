@@ -33,4 +33,6 @@ IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debu
 Ollydbg
 <a href="http://www.ollydbg.de/" target="_blank">![html](icons16/html-icon.png)</a><a href="http://www.ollydbg.de/" target="_blank">![git](icons16/github-icon.png)</a>
 
+OllyDbg is a 32-bit assembler level analysing debugger for Microsoft® Windows® with an emphasis on binary code analysis.
+
 ---
