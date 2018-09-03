@@ -33,6 +33,10 @@ Industrial Automation and Control Systems Security Principles
 Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Hacking-Exposed-Industrial-Control-Systems/dp/1259589714/ref=sr_1_1?s=books&ie=UTF8&qid=1535935183&sr=1-1&keywords=hacking+exposed+industrial+control)
 
+Malware Analyst's Cookbook
+[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033)
+
+
 ### <a name="talks"></a>talks
 
 ####  2018
