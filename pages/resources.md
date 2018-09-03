@@ -8,6 +8,7 @@ description: Chris Nadeau's online resources
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#books">books</a></li>
+            <li><a href="#talks">talks</a></li>
             <li><a href="#whitepapers">whitepapers</a></li>
             <li><a href="#podcasts">podcasts</a></li>
             <li><a href="#twitter">twitter</a></li>
@@ -25,6 +26,16 @@ Penetration Testing: A Hands-On Introduction to Hacking
 
 The Practice of Network Security Monitoring: Understanding Incident Detection and Response
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Practice-Network-Security-Monitoring-Understanding/dp/1593275099/ref=sr_1_1?ie=UTF8&qid=1483405822&sr=8-1&keywords=The+Practice+of+Network+Security+Monitoring)
+
+### <a name="talks"></a>talks
+
+###  2018
+
+From Workstation to Domain Admin -- Why Secure Administration Isn't Secure
+[![pdf](icons16/pdf-icon.png)](https://i.blackhat.com/us-18/Wed-August-8/us-18-Metcalf-From-Workstation-To-Domain-Admin-Why-Secure-Administration-Isnt-Secure.pdf)
+
+### 2014
+How not to suck at pen testing John Strand [![pdf](icons16/pdf-icon.png)](https://www.youtube.com/watch?v=Yo4oP2eyDtI)
 
 ### <a name="whitepapers"></a>whitepapers
 
@@ -66,27 +77,29 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 
 <a href="https://twitter.com/swiftonsecurity">@swiftonsecurity</a>
 
-<a href="https://twitter.com/swiftonsecurity">@x0rz</a>
+<a href="https://twitter.com/x0rz">@x0rz</a>
 
-<a href="https://twitter.com/swiftonsecurity">@PyroTek3</a>
+<a href="https://twitter.com/Pyrotek3">@PyroTek3</a>
 
-<a href="https://twitter.com/swiftonsecurity">@Carlos_Perez</a>
+<a href="https://twitter.com/Carlos_Perez">@Carlos_Perez</a>
 
-<a href="https://twitter.com/swiftonsecurity">@HackingDave</a>
+<a href="https://twitter.com/HackingDave">@HackingDave</a>
 
-<a href="https://twitter.com/swiftonsecurity">@subTee</a>
+<a href="https://twitter.com/subTee">@subTee</a>
 
-<a href="https://twitter.com/swiftonsecurity">@malwareunicorn</a>
+<a href="https://twitter.com/malwareunicorn">@malwareunicorn</a>
 
-<a href="https://twitter.com/swiftonsecurity">@Laughing_Mantis</a>
+<a href="https://twitter.com/Laughing_Mantis">@Laughing_Mantis</a>
 
-<a href="https://twitter.com/swiftonsecurity">@bettersafetynet</a>
+<a href="https://twitter.com/bettersafetynet">@bettersafetynet</a>
 
-<a href="https://twitter.com/swiftonsecurity">@dafthack</a>
+<a href="https://twitter.com/dafthack">@dafthack</a>
 
-<a href="https://twitter.com/swiftonsecurity">@mattifestation</a>
+<a href="https://twitter.com/mattifestation">@mattifestation</a>
 
-<a href="https://twitter.com/swiftonsecurity">@troyhunt</a>
+<a href="https://twitter.com/troyhunt">@troyhunt</a>
+
+<a href="https://twitter.com/TinkerSec">@tinkersec</a>
 
 ### <a name="ctf"></a>ctf
 
@@ -96,7 +109,7 @@ Over the Wire
 ### <a name="training"></a>training
 
 FedVTE
-[![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/tech214_abstract.html)
+[![Abstract](icons16/pubmed-icon.png)](https://fedvte.usalearning.gov/)
 
 SANS
-[![Abstract](icons16/pubmed-icon.png)](https://biostats.bepress.com/jhubiostat/paper125)
+[![Abstract](icons16/pubmed-icon.png)](https://www.sans.org/find-training/)
