@@ -57,10 +57,10 @@ Smashing The Stack For Fun And Profit (2017)
 #### 2016
 
 Hack Back! A DIY Guide (2016)
-[![pdf](icons16/pdf-icon.png)](assets/pdf/hackback.pdf)
+[![pdf](icons16/pdf-icon.png)](../assets/pdf/hackback.pdf)
 
 FLEXIDIE by Leopard Boy and Decepticons (2016)
-[![pdf](icons16/pdf-icon.png)](assets/pdf/Flexidie.txt)
+[![pdf](icons16/pdf-icon.png)](../assets/pdf/Flexidie.txt)
 
 #### 2015
 
