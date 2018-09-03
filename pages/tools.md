@@ -17,7 +17,7 @@ description: Infosec Tools
 #### Information Gathering
 
 <dl>
-  <dt>nmap</dt> [<a href="https://nmap.org/" target="_blank">![html](icons16/html-icon.png)</a><a href="https://www.hex-rays.com/products/ida/" target="_blank">![git](icons16/github-icon.png)</a>]
+  <dt>nmap</dt> ![<a href="https://nmap.org/" target="_blank">![html](icons16/html-icon.png)</a><a href="https://www.hex-rays.com/products/ida/" target="_blank">![git](icons16/github-icon.png)</a>]
   <dd>*utility for network discovery and security auditing*</dd>
 
   <dt>Markdown in HTML</dt>
