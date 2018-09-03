@@ -17,7 +17,7 @@ description: Infosec Tools
 #### Information Gathering
 
 <dl>
-  <dt>nmap(icons16/github-icon.png)</dt>(icons16/github-icon.png)
+  <dt>nmap</dt>
   <dd>utility for network discovery and security auditing</dd>
 
   <dt>Markdown in HTML</dt>
