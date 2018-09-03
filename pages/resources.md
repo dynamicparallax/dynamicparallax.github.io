@@ -119,7 +119,7 @@ Over the Wire
 ### <a name="training"></a>training
 
 FedVTE
-[![html](icons16/html--icon.png)](https://fedvte.usalearning.gov/)
+[![html](icons16/html-icon.png)](https://fedvte.usalearning.gov/)
 
 SANS
 [![html](icons16/html-icon.png)](https://www.sans.org/find-training/)
