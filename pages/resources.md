@@ -104,7 +104,7 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 ### <a name="ctf"></a>ctf
 
 Over the Wire
-[![Springer](icons16/springer-icon.png)](http://link.springer.com/book/10.1007/978-1-4614-1347-9)
+[![Springer](icons16/springer-icon.png)](http://overthewire.org/wargames/)
 
 ### <a name="training"></a>training
 
