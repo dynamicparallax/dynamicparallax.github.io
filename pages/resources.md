@@ -27,6 +27,12 @@ Penetration Testing: A Hands-On Introduction to Hacking
 The Practice of Network Security Monitoring: Understanding Incident Detection and Response
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Practice-Network-Security-Monitoring-Understanding/dp/1593275099/ref=sr_1_1?ie=UTF8&qid=1483405822&sr=8-1&keywords=The+Practice+of+Network+Security+Monitoring)
 
+Industrial Automation and Control Systems Security Principles
+[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Industrial-Automation-Control-Security-Principles/dp/1937560635)
+
+Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions
+[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Hacking-Exposed-Industrial-Control-Systems/dp/1259589714/ref=sr_1_1?s=books&ie=UTF8&qid=1535935183&sr=1-1&keywords=hacking+exposed+industrial+control)
+
 ### <a name="talks"></a>talks
 
 ####  2018
