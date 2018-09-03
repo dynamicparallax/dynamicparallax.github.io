@@ -16,7 +16,8 @@ description: Infosec Tools
 
 #### Information Gathering
     
-##### nmap <a href="https://nmap.org/" target="_blank">![html](icons16/html-icon.png)</a><a href="https://www.hex-rays.com/products/ida/" target="_blank">![git](icons16/github-icon.png)</a> -- *utility for network discovery and security auditing* 
+##### nmap <a href="https://nmap.org/" target="_blank">![html](icons16/html-icon.png)</a><a href="https://www.hex-rays.com/products/ida/" target="_blank">![git](icons16/github-icon.png)</a> 
+-- *utility for network discovery and security auditing* 
 
 ##### recon-ng <a href="https://bitbucket.org/LaNMaSteR53/recon-ng" target="_blank">![html](icons16/html-icon.png)</a><a href="https://www.hex-rays.com/products/ida/" target="_blank">![git](icons16/github-icon.png)</a>
 -- *Web Reconnaissance framework*
@@ -28,6 +29,8 @@ description: Infosec Tools
 
 #### Reverse Engineering
 
-##### ida - *multi-processor disassembler and debugger* <a href="https://www.hex-rays.com/products/ida/" target="_blank">![html](icons16/html-icon.png)</a><a href="https://www.hex-rays.com/products/ida/" target="_blank">![git](icons16/github-icon.png)</a>
+##### ida <a href="https://www.hex-rays.com/products/ida/" target="_blank">![html](icons16/html-icon.png)</a><a href="https://www.hex-rays.com/products/ida/" target="_blank">![git](icons16/github-icon.png)</a>
+-- *multi-processor disassembler and debugger*
 
-##### Ollydbg - (32-bit assembler level analysing debugger for Windows) <a href="http://www.ollydbg.de/" target="_blank">![html](icons16/html-icon.png)</a><a href="http://www.ollydbg.de/" target="_blank">![git](icons16/github-icon.png)</a>
+##### Ollydbg <a href="http://www.ollydbg.de/" target="_blank">![html](icons16/html-icon.png)</a><a href="http://www.ollydbg.de/" target="_blank">![git](icons16/github-icon.png)</a>
+-- 32-bit assembler level analysing debugger for Windows
