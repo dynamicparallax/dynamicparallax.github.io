@@ -16,7 +16,7 @@ description: Infosec Tools
 
 #### Information Gathering
     
-##### nmap <a href="https://nmap.org/" target="_blank">![html](icons16/html-icon.png)</a><a href="https://www.hex-rays.com/products/ida/" target="_blank">![git](icons16/github-icon.png)</a> 
+##### nmap <a href="https://nmap.org/" target="_blank">![html](icons16/html-icon.png)</a><a href="https://github.com/dynamicparallax/toolcheatsheets/blob/master/nmap" target="_blank">![git](icons16/github-icon.png)</a> 
 -- *utility for network discovery and security auditing* 
 
 ##### recon-ng <a href="https://bitbucket.org/LaNMaSteR53/recon-ng" target="_blank">![html](icons16/html-icon.png)</a><a href="https://www.hex-rays.com/products/ida/" target="_blank">![git](icons16/github-icon.png)</a>
