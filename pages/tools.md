@@ -8,13 +8,14 @@ description: Infosec Tools
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="https://github.com/dynamicparallax?tab=repositories">github</a></li>
+            <li><a href="#Information Gathering">Information Gathering</a></li>
         </ul>
     </div>
 </div>
 
 ---
 
-#### Information Gathering
+#### <a name="Information Gathering"></a>Information Gathering
     
 ##### nmap <a href="https://nmap.org/" target="_blank">![html](icons16/html-icon.png)</a><a href="https://github.com/dynamicparallax/toolcheatsheets/blob/master/nmap" target="_blank">![git](icons16/github-icon.png)</a> 
 -- *utility for network discovery and security auditing* 
