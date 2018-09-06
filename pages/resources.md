@@ -116,6 +116,28 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 Over the Wire
 [![Springer](icons16/springer-icon.png)](http://overthewire.org/wargames/)
 
+CTF365
+[![Springer](icons16/springer-icon.png)](https://ctf365.com/)
+
+Hacking Lab
+[![Springer](icons16/springer-icon.png)](https://www.hacking-lab.com/index.html)
+
+Hack This Site
+[![Springer](icons16/springer-icon.png)](https://www.hackthissite.org/)
+
+Exploit Exercises
+[![Springer](icons16/springer-icon.png)](https://exploit-exercises.com/)
+
+Hack.me
+[![Springer](icons16/springer-icon.png)](https://hack.me/)
+
+Google Gruyere
+[![Springer](icons16/springer-icon.png)](http://google-gruyere.appspot.com/)
+
+root me
+[![Springer](icons16/springer-icon.png)](https://www.root-me.org/?lang=en)
+
+
 ### <a name="training"></a>training
 
 FedVTE
