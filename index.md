@@ -19,13 +19,13 @@ keywords: Nadeau, SCADA, Infosec, security, architect, DFIR
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="Incident Response"/>
+        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="Pen Testing"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/tian2016_fig4.html">
         <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Malware"/>
+        al. (2016) Fig 4" title="Incident Response"/>
     </a>
   </td>
 </tr>
@@ -37,7 +37,7 @@ keywords: Nadeau, SCADA, Infosec, security, architect, DFIR
   </td>
   <td class="right">
     <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Pen Testing"/>
+        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Malware"/>
     </a>
   </td>
 </tr>
