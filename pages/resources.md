@@ -114,7 +114,7 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 ### <a name="ctf"></a>ctf
 
 Over the Wire
-[![Springer](icons16/springer-icon.png)](http://overthewire.org/wargames/)
+[![Springer](icons16/springer-icon.png)](http://overthewire.org/wargames/)<a href="https://github.com/dynamicparallax/ctf/overthewire" target="_blank">![git](icons16/github-icon.png)</a>
 
 CTF365
 [![Springer](icons16/springer-icon.png)](https://ctf365.com/)
