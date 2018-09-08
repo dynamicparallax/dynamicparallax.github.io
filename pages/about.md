@@ -4,7 +4,7 @@ title: about
 description: Chris Nadeau is an Inforamtion Security Professional currently working as an Information Security Architect with focuses on ICS/SCADA, Incident Response, MDM, and DLP
 ---
 
-Chris Nadeau is a security researcher who specializes in ICS/SCADA Network Security, and Incident Response. Recently, he has been building and leading private sector Hunt Operations capabilities. In his previous life, Chris led disaster recovery and incident response for AT&T Global Network Operations, defining and documenting Disaster Recovery and detecting and removing Advanced Persistent Threats.
+Chris Nadeau is a security researcher who specializes in Network Security, and Incident Response. Recently, he has been building and leading private sector security operations capabilities. In his previous life, Chris led disaster recovery and incident response for AT&T Global Network Operations, defining and documenting Disaster Recovery and detecting and removing Advanced Persistent Threats.
 
 ---
 
