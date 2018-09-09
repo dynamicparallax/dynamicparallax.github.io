@@ -14,6 +14,7 @@ description: Chris Nadeau's online resources
             <li><a href="#twitter">twitter</a></li>
             <li><a href="#ctf">ctf</a></li>
             <li><a href="#training">training</a></li>
+            <li><a href="#frameworks">training</a></li>
         </ul>
     </div>
 </div>
@@ -145,3 +146,17 @@ FedVTE
 
 SANS
 [![html](icons16/html-icon.png)](https://www.sans.org/find-training/)
+
+
+### <a name="frameworks"></a>frameworks
+
+<a href="https://csrc.nist.gov/publications/sp800" target="_blank">NIST SP800</a> 
+
+<a href="https://attack.mitre.org/wiki/Main_Page" target="_blank">MITRE ATT&CK</a> 
+
+<a href="https://www.owasp.org" target="_blank">OWASP</a>
+
+<a href="https://www.cisecurity.org" target="_blank">CIS Critical Security Controls</a>
+ 
+<a href="https://www.iso.org/isoiec-27001-information-security.html" target="_blank">ISO 27001</a>
+ 
