@@ -37,6 +37,8 @@ Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Sol
 Malware Analyst's Cookbook
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033)
 
+Learn Windows PowerShell in a Month of Lunches
+[![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160/ref=dp_ob_title_bk)
 
 ### <a name="talks"></a>talks
 
@@ -114,6 +116,9 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 
 ### <a name="ctf"></a>ctf
 
+Hack the Box
+[![Springer](icons16/springer-icon.png)](https://www.hackthebox.eu/)
+
 Over the Wire
 [![Springer](icons16/springer-icon.png)](http://overthewire.org/wargames/)<a href="https://github.com/dynamicparallax/ctf/blob/master/overthewire" target="_blank">![git](icons16/github-icon.png)</a>
 
@@ -159,4 +164,5 @@ SANS
 <a href="https://www.cisecurity.org" target="_blank">CIS Critical Security Controls</a>
  
 <a href="https://www.iso.org/isoiec-27001-information-security.html" target="_blank">ISO 27001</a>
- 
+
+<a href="https://www.pcisecuritystandards.org/" target="_blank">PCI DSS</a>
