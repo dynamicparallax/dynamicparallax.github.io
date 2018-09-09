@@ -166,3 +166,5 @@ SANS
 <a href="https://www.iso.org/isoiec-27001-information-security.html" target="_blank">ISO 27001</a>
 
 <a href="https://www.pcisecuritystandards.org/" target="_blank">PCI DSS</a>
+
+<a href="http://www.isecom.org/research/" target="_blank">OSSTMM</a>
