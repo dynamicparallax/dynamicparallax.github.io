@@ -19,25 +19,24 @@ keywords: Nadeau, SCADA, Infosec, security, architect, DFIR
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="Pen Testing"/>
+        <img src="assets/publpics/iplotCorr.png" alt="Penetration Testing" title="Penetration Testing"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Incident Response"/>
+        <img src="assets/publpics/tian2016_fig4.png" alt="Incident Response Process" title="Incident Response"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="OSINT"/>
+        <img src="assets/publpics/samplemixups_fig7.png" alt="OSINT" title="OSINT"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Malware"/>
+        <img src="assets/publpics/isletc6_fig4.png" alt="Malware" title="Malware"/>
     </a>
   </td>
 </tr>
