@@ -9,6 +9,7 @@ description: Infosec Tools
         <ul class="nav">
             <li><a href="https://github.com/dynamicparallax?tab=repositories">github</a></li>
             <li><a href="#Information Gathering">Information Gathering</a></li>
+            <li><a href="#Information Gathering">Reverse Engineering</a></li>
         </ul>
     </div>
 </div>
