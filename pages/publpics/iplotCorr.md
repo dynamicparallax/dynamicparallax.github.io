@@ -16,7 +16,6 @@ title: R/qtlcharts example
 <tr>
   <td class="center">
         <img src="assets/bigpublpics/iplotCorr.png" alt="Penetration Testing" title="Penetration Testing"/>
-    </a>
   </td>
 </tr>
 </table>
