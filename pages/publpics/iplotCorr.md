@@ -12,3 +12,11 @@ title: R/qtlcharts example
   </div>
 </div>
 
+<table class="wide">
+<tr>
+  <td class="center">
+        <img src="assets/publpics/iplotCorr.png" alt="Penetration Testing" title="Penetration Testing"/>
+    </a>
+  </td>
+</tr>
+</table>
