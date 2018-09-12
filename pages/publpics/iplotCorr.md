@@ -9,7 +9,6 @@ title: Penetration Testing
           <li><a href="isletc6_fig4.html">prev</a></li>
           <li><a href="tian2016_fig4.html">next</a></li>
       </ul>
-        <img src="assets/bigpublpics/iplotCorr.png" alt="Penetration Testing" title="Penetration Testing"/>
   </div>
 </div>
 
