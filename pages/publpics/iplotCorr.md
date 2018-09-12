@@ -17,7 +17,7 @@ title: Penetration Testing
 <tr>
   <td class="center">
     <img src="assets/bigpublpics/iplotCorr.png" alt="Penetration Testing" title="Penetration Testing"/>
-    <img src="../assets/bigpublpics/iplotCorr.png"
+    <img src="../assets/bigpublpics/iplotCorr.png">
   </td>
 </tr>
 </table>
