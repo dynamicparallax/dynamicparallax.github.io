@@ -14,7 +14,7 @@ description: Chris Nadeau's online resources
             <li><a href="#twitter">twitter</a></li>
             <li><a href="#ctf">ctf</a></li>
             <li><a href="#training">training</a></li>
-            <li><a href="#frameworks">training</a></li>
+            <li><a href="#frameworks">frameworks</a></li>
         </ul>
     </div>
 </div>
