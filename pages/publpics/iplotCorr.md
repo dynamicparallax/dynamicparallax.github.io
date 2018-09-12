@@ -12,11 +12,8 @@ title: Penetration Testing
   </div>
 </div>
 
-<table class="wide">
-<tr>
-  <td class="center">
-    <img src="assets/bigpublpics/iplotCorr.png" alt="Penetration Testing" title="Penetration Testing"/>
-    <img src="../assets/bigpublpics/iplotCorr.png">
-  </td>
-</tr>
-</table>
+An interactive data visualizations for Penetration Testing Methodology <br/>
+[![pdf](../icons16/pdf-icon.png)](https://soon.pdf)
+[![GitHub](../icons16/github-icon.png)](https://github.com/dynamicparallax)
+
+[![R/qtlcharts example](../../assets/bigpublpics/iplotCorr.png)](http://soon/iplotCorr.html)
