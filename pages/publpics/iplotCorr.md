@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: R/qtlcharts example
+title: Penetration Testing
 ---
 
 <div class="navbar">
