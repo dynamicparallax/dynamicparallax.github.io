@@ -12,6 +12,6 @@ title: Penetration Testing
   </div>
 </div>
 
-An interactive data visualizations for Penetration Testing Methodology. [![pdf](../icons16/pdf-icon.png)](https://soon.pdf) [![GitHub](../icons16/github-icon.png)](https://github.com/dynamicparallax)
+An interactive data visualization for penetration testing methodology. [![pdf](../icons16/pdf-icon.png)](https://soon.pdf) [![GitHub](../icons16/github-icon.png)](https://github.com/dynamicparallax)
 
 [![R/qtlcharts example](../../assets/bigpublpics/iplotCorr.png)](http://soon/iplotCorr.html)
