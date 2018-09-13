@@ -13,14 +13,14 @@
 
 </style>
 
-<div id='d3div'></div>
+<div id='d3div1'></div>
 
 
 
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
-var width = $("#d3div").width(),
+var width = $("#d3div1").width(),
     height = 500;
 
 var color = d3.scale.category20();
@@ -30,7 +30,7 @@ var force = d3.layout.force()
     .linkDistance(30)
     .size([width, height]);
 
-var svg = d3.select("#d3div").append("svg")
+var svg = d3.select("#d3div1").append("svg")
     .attr("width", width)
     .attr("height", height);
 
