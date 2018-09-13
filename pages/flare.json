@@ -50,6 +50,9 @@
         }, {
             "name": "Datacenter Locations",
             "size": 5842
+        }, {
+            "name": "Third-Prty Service Providers",
+            "size": 4098
         }]
     }, {
         "name": "data",
