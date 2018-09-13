@@ -13,15 +13,14 @@
 
 </style>
 
-<div id='d3div1'></div>
-
+<div id="tree-container"></div>
 
 
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script src="dndTree.js"></script>
 <script>
 
-var width = $("#d3div1").width(),
+var width = $("#tree-container").width(),
     height = 500;
 
 var color = d3.scale.category20();
@@ -31,7 +30,7 @@ var force = d3.layout.force()
     .linkDistance(30)
     .size([width, height]);
 
-var svg = d3.select("#d3div1").append("svg")
+var svg = d3.select("#tree-container").append("svg")
     .attr("width", width)
     .attr("height", height);
 
