@@ -1,5 +1,5 @@
 An interactive data visualization for incident response methodology. [![pdf](./icons16/pdf-icon.png)](https://soon.pdf) [![GitHub](./icons16/github-icon.png)](https://github.com/dynamicparallax)
-size
+size2
 <style>
   
 	.node {
@@ -46,7 +46,7 @@ size
 <script>
 
 var width = $("#tree-container").width(),
-    height = 100;
+    height = 10;
 
 var color = d3.scale.category20();
 
