@@ -46,7 +46,6 @@ An interactive data visualization for incident response methodology. [![pdf](./i
 <script>
 
 var width = $("#tree-container").width(),
-    height = 0;
 
 var color = d3.scale.category20();
 
