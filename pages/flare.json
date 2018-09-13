@@ -2,20 +2,15 @@
     "name": "Target",
     "children": [{
         "name": "Physical",
+    }, {
+        "name": "Datacenter Location",
+     }, {
+        "name": "Third-Party Service Providers",   
         "children": [{
             "name": "Offices",
             "children": [{
                 "name": "Datacenter Location",
                 "size": 3938
-            }, {
-                "name": "Third-Party Service Providers",
-                "size": 3812
-            }, {
-                "name": "HierarchicalCluster",
-                "size": 6714
-            }, {
-                "name": "MergeEdge",
-                "size": 743
             }]
         }, {
         "name": "animate",
