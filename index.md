@@ -30,7 +30,7 @@ keywords: Nadeau, SCADA, Infosec, security, architect, DFIR
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
+    <a href="pages/test2.html">
         <img src="assets/publpics/samplemixups_fig7.png" alt="OSINT" title="OSINT"/>
     </a>
   </td>
