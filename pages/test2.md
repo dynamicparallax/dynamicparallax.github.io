@@ -1,4 +1,3 @@
-Booger
 <style type="text/css">
   
 	.node {
