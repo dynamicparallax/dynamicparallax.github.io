@@ -1,9 +1,8 @@
 ---
 layout: post
 title: ""
-author: "Andrew Mehrmann"
+author: ""
 date: ""
-categories: blog
 ---
 <script src="//code.jquery.com/jquery.js"></script>
 <style>
