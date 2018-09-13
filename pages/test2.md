@@ -34,7 +34,7 @@ var svg = d3.select("#d3div1").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-d3.json("miserables.json", function(error, graph) {
+d3.json("flare.json", function(error, graph) {
   if (error) throw error;
 
   force
