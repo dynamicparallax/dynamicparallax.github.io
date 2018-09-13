@@ -6,11 +6,11 @@ width
     cursor: pointer;
   }
   .overlay{
-      background-color:#EEE;
+      background-color:#fff;
   }
    
   .node circle {
-    fill: #fff;
+    fill: #EEEE;
     stroke: steelblue;
     stroke-width: 1.5px;
   }
