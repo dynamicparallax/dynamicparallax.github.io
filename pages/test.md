@@ -1,8 +1,5 @@
 ---
 layout: post
-title: ""
-author: ""
-date: ""
 ---
 <script src="//code.jquery.com/jquery.js"></script>
 <style>
