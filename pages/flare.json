@@ -1,7 +1,7 @@
 {
     "name": "Target",
     "children": [{
-        "name": "Physical",
+        "name": "Physical1",
         "children": [{
             "name": "cluster",
             "children": [{
