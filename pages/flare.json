@@ -1,14 +1,14 @@
 {
     "name": "Target",
     "children": [{
-        "name": "physical",
+        "name": "Physical",
         "children": [{
-            "name": "cluster",
+            "name": "Offices",
             "children": [{
-                "name": "AgglomerativeCluster",
+                "name": "Datacenter Location",
                 "size": 3938
             }, {
-                "name": "CommunityStructure",
+                "name": "Third-Party Service Providers",
                 "size": 3812
             }, {
                 "name": "HierarchicalCluster",
