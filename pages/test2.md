@@ -46,7 +46,7 @@ size2
 <script>
 
 var width = $("#tree-container").width(),
-    height = 10;
+    height = 0;
 
 var color = d3.scale.category20();
 
