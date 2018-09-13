@@ -23,7 +23,7 @@ keywords: Nadeau, SCADA, Infosec, security, architect, DFIR
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
+    <a href="pages/test.html">
         <img src="assets/publpics/tian2016_fig4.png" alt="Incident Response Process" title="Incident Response"/>
     </a>
   </td>
