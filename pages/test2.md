@@ -1,4 +1,4 @@
-<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
 <style>
 
 .node {
@@ -17,7 +17,7 @@
 
 
 
-<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
 var width = $("#d3div").width(),
