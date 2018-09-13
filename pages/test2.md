@@ -10,7 +10,7 @@ color
   }
    
   .node circle {
-    fill: #EEEE;
+    fill: #EEE;
     stroke: steelblue;
     stroke-width: 1.5px;
   }
