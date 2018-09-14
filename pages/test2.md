@@ -1,6 +1,6 @@
 ---
 layout: page
-title: An interactive data visualization for penetration testing methodology.
+title: Interactive data visualization for penetration testing methodology.
 ---
 
 <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
