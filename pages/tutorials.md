@@ -4,7 +4,7 @@ title: tutorials
 description: Chris Nadeau's tutorials
 ---
 
-- [Discovering subdomains](https://.com)
+- [Discovering subdomains](/tutorial_posts/discovering.html)
 
 ---
 
