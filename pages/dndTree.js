@@ -16,8 +16,8 @@ treeJSON = d3.json("flare.json", function(error, treeData) {
     var root;
 
     // size of the diagram
-    var viewerWidth = 500;
-    var viewerHeight = 500;
+    var viewerWidth = 800;
+    var viewerHeight = 1000;
 
     var tree = d3.layout.tree()
         .size([viewerHeight, viewerWidth]);
@@ -160,7 +160,9 @@ treeJSON = d3.json("flare.json", function(error, treeData) {
             dragStarted = true;
             nodes = tree.nodes(d);
             d3.event.sourceEvent.stopPropagation();
-            // it's important that we suppress the mouseover event on the node being dragged. Otherwise it will absorb the mouseover event and the underlying node will not detect it d3.select(this).attr('pointer-events', 'none');
+            // it's important that we suppress the mouseover event on the node being dragged. 
+            // Otherwise it will absorb the mouseover event and the underlying node will not detect 
+            // it d3.select(this).attr('pointer-events', 'none');
         })
         .on("drag", function(d) {
             if (d == root) {
