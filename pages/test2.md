@@ -1,4 +1,4 @@
-An interactive data visualization for incident response methodology. [![pdf](./icons16/pdf-icon.png)](https://soon.pdf) [![GitHub](./icons16/github-icon.png)](https://github.com/dynamicparallax)
+An interactive data visualization for penetration testing methodology. [![pdf](./icons16/pdf-icon.png)](https://soon.pdf) [![GitHub](./icons16/github-icon.png)](https://github.com/dynamicparallax)
 <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
 <style>
   
