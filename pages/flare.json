@@ -142,12 +142,12 @@
             "size": 1681
         }]
     }, {
-        "name": "query",
+        "name": "Internet of Things",
         "children": [{
-            "name": "AggregateExpression",
+            "name": "Recon",
             "size": 1616
         }, {
-            "name": "And",
+            "name": "Testing",
             "size": 1027
         }, {
             "name": "Arithmetic",
@@ -361,15 +361,15 @@
             "size": 5833
         }]
     }, {
-        "name": "util",
+        "name": "Infrastructure",
         "children": [{
-            "name": "Arrays",
+            "name": "Web",
             "size": 8258
         }, {
-            "name": "Colors",
+            "name": "Network",
             "size": 10001
         }, {
-            "name": "Dates",
+            "name": "Mobile",
             "size": 8217
         }, {
             "name": "Displays",
