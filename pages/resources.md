@@ -11,6 +11,7 @@ description: Chris Nadeau's online resources
             <li><a href="#talks">talks</a></li>
             <li><a href="#whitepapers">whitepapers</a></li>
             <li><a href="#podcasts">podcasts</a></li>
+            <li><a href="#sites">sites</a></li>
             <li><a href="#twitter">twitter</a></li>
             <li><a href="#ctf">ctf</a></li>
             <li><a href="#training">training</a></li>
@@ -86,6 +87,20 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 
 <a href="https://securityweekly.com/shows/" target="_blank">Pauls Security Weekly</a>
 
+### <a name="sites"></a>sites
+
+<a href="http://pentestmonkey.net/" target="_blank">pentestmonkey</a>
+
+<a href="http://www.ipvoid.com/" target="_blank">IPVoid</a>
+
+<a href="https://www.shodan.io/" target="_blank">Shodan</a>
+
+<a href="https://www.virustotal.com" target="_blank">VirusTotal</a>
+
+<a href="https://inteltechniques.com/menu.html" target="_blank">IntelTechniques</a>
+
+<a href="https://www.exploit-db.com/" target="_blank">Exploit-DB</a>
+
 ### <a name="twitter"></a>twitter
 
 <a href="https://twitter.com/swiftonsecurity">@swiftonsecurity</a>
@@ -113,6 +128,10 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 <a href="https://twitter.com/troyhunt">@troyhunt</a>
 
 <a href="https://twitter.com/TinkerSec">@tinkersec</a>
+
+<a href="https://twitter.com/ippsec">@ippsec</a>
+
+ref="https://twitter.com/silviocesare">@silviocesare</a>
 
 ### <a name="ctf"></a>ctf
 
