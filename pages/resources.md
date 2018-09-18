@@ -131,7 +131,7 @@ Rocking the pocket book: Hacking chemical plants for competition and extortion (
 
 <a href="https://twitter.com/ippsec">@ippsec</a>
 
-ref="https://twitter.com/silviocesare">@silviocesare</a>
+<a href="https://twitter.com/silviocesare">@silviocesare</a>
 
 ### <a name="ctf"></a>ctf
 
