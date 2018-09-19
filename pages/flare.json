@@ -94,7 +94,7 @@
   {
    "name": "flex",
    "children": [
-    {"name": "http://east-nj1.photos.example.org/987/nj1-1234", "value": 4116, "owner" : "http://east-nj1.photos.example.org/987/nj1-1234"}
+    {"name": "flexlink", "value": 4116},
    ]
   },
   {
