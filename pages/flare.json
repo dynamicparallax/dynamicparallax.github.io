@@ -94,7 +94,7 @@
   {
    "name": "flex",
    "children": [
-    {"name": "FlareVis", "<a href=\"http://www.google.com\">here</a> to access Google": 4116}
+    {"name": "FlareVis", "value": 4116}
    ]
   },
   {
