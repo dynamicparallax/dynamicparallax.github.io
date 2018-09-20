@@ -94,7 +94,7 @@
   {
    "name": "flex",
    "children": [
-    {"name": "flexlink", "value": 4116}
+    {"name": "flexlink", "link": "href='reddit.com'", "value": 4116}
    ]
   },
   {
