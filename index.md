@@ -35,11 +35,9 @@ keywords: Nadeau, SCADA, Infosec, security, architect, DFIR
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
+    <a href="pages/test3.html">
         <img src="assets/publpics/isletc6_fig4.png" alt="Malware" title="Malware"/>
     </a>
   </td>
 </tr>
 </table>
-
-
