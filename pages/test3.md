@@ -3,7 +3,6 @@ layout: page
 title: Interactive Data Visualization for Pen Testing Methodology.
 ---
 
-<!DOCTYPE html>
 <meta charset="utf-8">
 <style>
 
