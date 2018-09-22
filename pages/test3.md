@@ -2,7 +2,30 @@
 layout: page
 title: Interactive Data Visualization for Pen Testing Methodology.
 ---
+<meta charset="utf-8">
+<style>
 
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 10px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+</style>
 <body>
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
