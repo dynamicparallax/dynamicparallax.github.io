@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interactive Data Visualization for Pen Testing Methodology.
+title: Collapsible Tree for Pen Testing Methodology.
 ---
 <meta charset="utf-8">
 <style>
