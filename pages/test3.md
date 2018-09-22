@@ -2,6 +2,10 @@
 layout: page
 title: Collapsible Tree for Pen Testing Methodology.
 ---
+<table class="wide">
+<tr>
+  <td class="left">
+    
 <meta charset="utf-8">
 <style>
 
@@ -171,4 +175,6 @@ function click(d) {
 }
 
 </script>
-
+</td>
+</tr>
+</table>
