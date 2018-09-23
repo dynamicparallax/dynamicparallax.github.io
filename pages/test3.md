@@ -31,7 +31,7 @@ An interactive data visualization for incident response methodology. [![pdf](./i
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
-var margin = {top: 0, right: 120, bottom: 20, left: 120},
+var margin = {top: 0, right: 300, bottom: 20, left: 300},
     width = 900 - margin.right - margin.left,
     height = 800 - margin.top - margin.bottom;
 
