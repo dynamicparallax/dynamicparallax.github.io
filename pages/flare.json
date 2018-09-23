@@ -5,9 +5,9 @@
    "name": "Physical",
    "children": [
     {
-     "name": "Offices",
+     "name": "Offices1",
      "children": [
-      {"name": "AgglomerativeCluster", "value": 3938},
+      {"name": "AgglomerativeCluster", "value": 3000},
       {"name": "CommunityStructure", "value": 3812},
       {"name": "HierarchicalCluster", "value": 6714},
       {"name": "MergeEdge", "value": 743}
