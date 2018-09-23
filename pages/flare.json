@@ -12,31 +12,40 @@
   {
    "name": "Logical",
    "children": [
-    {"name": "Founded", "value": 17010},
-    {"name": "Competitors", "value": 5842},
     {
-     "name": "interpolate",
+	"name": "Founded",
+	"children": [
+		{"name": "Date", "value": 17010}
+		]
+	},
+    {"name": "Competitors", "value": 5842}
+    {
+     "name": "Employees",
      "children": [
-      {"name": "ArrayInterpolator", "value": 1983},
-      {"name": "ColorInterpolator", "value": 2047},
-      {"name": "DateInterpolator", "value": 1375},
-      {"name": "Interpolator", "value": 8746},
-      {"name": "MatrixInterpolator", "value": 2202},
-      {"name": "NumberInterpolator", "value": 1382},
-      {"name": "ObjectInterpolator", "value": 1629},
-      {"name": "PointInterpolator", "value": 1675},
-      {"name": "RectangleInterpolator", "value": 2042}
+      {"name": "LinkedIn", "value": 1983}
      ]
     },
-    {"name": "ISchedulable", "value": 1041},
-    {"name": "Parallel", "value": 5176},
-    {"name": "Pause", "value": 449},
-    {"name": "Scheduler", "value": 5593},
-    {"name": "Sequence", "value": 5534},
-    {"name": "Transition", "value": 9201},
-    {"name": "Transitioner", "value": 19975},
-    {"name": "TransitionEvent", "value": 1116},
-    {"name": "Tween", "value": 6006}
+    {"name": "Case Studies", "value": 1041},
+    {"name": "Funding Rounds", "value": 5176},
+    {"name": "StackShare", "value": 449},
+    {"name": "Public Records", "value": 5593},
+    {"name": "OpenSecrets", "value": 5534},
+    {"name": "Partners", "value": 9201},
+    {"name": "Investors", "value": 19975}
+    {
+     "name": "Job Postions",
+     "children": [
+      {"name": "Indeed", "value": 1983},
+	  {"name": "LinkedIn", "value": 1987},
+	  {"name": "Monster", "value": 1988}
+     ]
+    },
+    {
+     "name": "Employees",
+     "children": [
+      {"name": "LinkedIn", "value": 1983}
+     ]
+	}
    ]
   },
   {
