@@ -4,27 +4,17 @@
   {
    "name": "Physical",
    "children": [
-      {"name": "Ofiices", "value": 3000},
-      {"name": "Datacenter Locations", "value": 3812},
-      {"name": "Third Party", "value": 6714}
+    {"name": "Offices", "value": 3000},
+    {"name": "Datacenter Locations", "value": 3812},
+    {"name": "Third Party", "value": 6714},
+    },
    ]
   },
   {
    "name": "Logical",
    "children": [
-    {
-    "name": "Founded",
-    "children": [
-     {"name": "Date", "value": 6714}
-    ]
-    },
-    {"name": "Competitors", "value": 6714},
-     {"name": "Third Party", "value": 6714}
-    {"name": "Case Studies", "value": 5843},
-    {"name": "Employees", "value": 5845},
-    {"name": "Funding Rounds", "value": 5884},
-    {"name": "StackShare", "value": 5899},
-    {"name": "Job Postions", "value": 5849},
+    {"name": "Founded", "value": 17010},
+    {"name": "Competitors", "value": 5842},
     {
      "name": "interpolate",
      "children": [
