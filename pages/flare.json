@@ -5,7 +5,7 @@
    "name": "Physical",
    "children": [
     {
-     "name": "cluster",
+     "name": "Offices",
      "children": [
       {"name": "AgglomerativeCluster", "value": 3938},
       {"name": "CommunityStructure", "value": 3812},
@@ -14,7 +14,7 @@
      ]
     },
     {
-     "name": "graph",
+     "name": "Datacenter Locations",
      "children": [
       {"name": "BetweennessCentrality", "value": 3534},
       {"name": "LinkDistance", "value": 5731},
@@ -24,7 +24,7 @@
      ]
     },
     {
-     "name": "optimization",
+     "name": "Third Party",
      "children": [
       {"name": "AspectRatioBanker", "value": 7074}
      ]
@@ -34,8 +34,8 @@
   {
    "name": "Logical",
    "children": [
-    {"name": "Easing", "value": 17010},
-    {"name": "FunctionSequence", "value": 5842},
+    {"name": "Founded", "value": 17010},
+    {"name": "Competitors", "value": 5842},
     {
      "name": "interpolate",
      "children": [
