@@ -28,9 +28,22 @@ An interactive data visualization for incident response methodology. [![pdf](./i
 }
 
 </style>
-
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
+
+var width = $("#d3div").width(),
+    height = 500;
+
+var color = d3.scale.category20();
+
+var force = d3.layout.force()
+    .charge(-120)
+    .linkDistance(30)
+    .size([width, height]);
+
+var svg = d3.select("#d3div").append("svg")
+    .attr("width", width)
+    .attr("height", height);
 
 var margin = {top: 0, right: 120, bottom: 20, left: 120},
     width = 1080 - margin.right - margin.left,
