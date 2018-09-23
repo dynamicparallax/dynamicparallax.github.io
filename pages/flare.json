@@ -12,10 +12,12 @@
   {
    "name": "Logical",
    "children": [
+    {
     "name": "Founded",
     "children": [
      {"name": "Date", "value": 6714}
     ]
+    },
     {"name": "Competitors", "value": 6714},
      {"name": "Third Party", "value": 6714}
     {"name": "Case Studies", "value": 5843},
@@ -23,6 +25,7 @@
     {"name": "Funding Rounds", "value": 5884},
     {"name": "StackShare", "value": 5899},
     {"name": "Job Postions", "value": 5849},
+    }
     {
      "name": "interpolate",
      "children": [
