@@ -4,8 +4,6 @@ title: Collapsible Tree for Pen Testing Methodology.
 ---
 An interactive data visualization for incident response methodology. [![pdf](./icons16/pdf-icon.png)](https://soon.pdf) [![GitHub](./icons16/github-icon.png)](https://github.com/dynamicparallax)
 
-<div class="container">
-
 <style>
 
 .node {
@@ -174,5 +172,3 @@ function click(d) {
 }
 
 </script>
-  
-</div>
