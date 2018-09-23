@@ -7,11 +7,6 @@ An interactive data visualization for incident response methodology. [![pdf](./i
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
-    <div class="row-fluid">
-        <div class="span5">
-            Chris Nadeau<br/>
-           
-        </div>
 <style>
 
 .node {
