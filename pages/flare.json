@@ -14,6 +14,11 @@
    "children": [
     {"name": "Founded", "value": 17010},
     {"name": "Competitors", "value": 5842},
+    {"name": "Case Studies", "value": 5843},
+    {"name": "Employees", "value": 5845},
+    {"name": "Funding Rounds", "value": 5884},
+    {"name": "StackShare", "value": 5899},
+    {"name": "Job Postions", "value": 5849},
     {
      "name": "interpolate",
      "children": [
