@@ -32,7 +32,7 @@ An interactive data visualization for incident response methodology. [![pdf](./i
 <script>
 
 var margin = {top: 0, right: 120, bottom: 20, left: 120},
-    width = 700 - margin.right - margin.left,
+    width = 900 - margin.right - margin.left,
     height = 800 - margin.top - margin.bottom;
 
 var i = 0,
