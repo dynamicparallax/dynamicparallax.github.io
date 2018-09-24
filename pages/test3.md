@@ -144,7 +144,7 @@ function update(source) {
   d3.select(self.frameElement).transition()
       .duration(duration)
       .style("height", height + "px");
-  // Compute the "layout". TODO https://github.com/d3/d3-hierarchy/issues/67
+  // Compute the "layout". 
 <style>
 .node {
   cursor: pointer;
