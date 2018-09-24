@@ -25,28 +25,30 @@ An interactive data visualization for incident response methodology. [![pdf](./i
 
 </style>
 
+<div id='d3div'></div>
+
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
-var margin = {top: 0, right: 120, bottom: 20, left: 120},
-    width = 1080 - margin.right - margin.left,
-    height = 800 - margin.top - margin.bottom;
+var width = $("#d3div").width(),
+    height = 500;
 
-var i = 0,
-    duration = 750,
-    root;
+var color = d3.scale.category20();
+
+var force = d3.layout.force()
+    .charge(-120)
+    .linkDistance(30)
+    .size([width, height]);
+
+var svg = d3.select("#d3div").append("svg")
+    .attr("width", width)
+    .attr("height", height);
 
 var tree = d3.layout.tree()
     .size([height, width]);
 
 var diagonal = d3.svg.diagonal()
     .projection(function(d) { return [d.y, d.x]; });
-
-var svg = d3.select("body").append("svg")
-    .attr("width", width + margin.right + margin.left)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 d3.json("flare.json", function(error, flare) {
   if (error) throw error;
