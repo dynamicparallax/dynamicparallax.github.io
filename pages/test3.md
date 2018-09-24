@@ -147,132 +147,109 @@ function update(source) {
       .duration(duration)
       .style("height", height + "px");
   // Compute the "layout". TODO https://github.com/d3/d3-hierarchy/issues/67
-  var index = -1;
-  root.eachBefore(function(n) {
-    n.x = ++index * barHeight;
-    n.y = n.depth * 20;
-  });
-  // Update the nodes…
-  var node = svg.selectAll(".node")
-    .data(nodes, function(d) { return d.id || (d.id = ++i); });
-  var nodeEnter = node.enter().append("g")
-      .attr("class", "node")
-      .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
-      .style("opacity", 0);
-  // Enter any new nodes at the parent's previous position.
-  nodeEnter.append("rect")
-      .attr("y", -barHeight / 2)
-      .attr("height", barHeight)
-      .attr("width", barWidth)
-      .style("fill", color)
-      .on("click", click);
-  nodeEnter.append("text")
 <style>
-.node rect {
+.node {
   cursor: pointer;
+}
+.node circle {
   fill: #fff;
-  fill-opacity: 0.5;
-  stroke: #3182bd;
+  stroke: steelblue;
   stroke-width: 1.5px;
 }
 .node text {
   font: 10px sans-serif;
-  pointer-events: none;
 }
 .link {
   fill: none;
-  stroke: #9ecae1;
+  stroke: #ccc;
   stroke-width: 1.5px;
 }
 </style>
 <body>
-<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="//d3js.org/d3.v3.min.js"></script>
 <script>
-var margin = {top: 30, right: 20, bottom: 30, left: 20},
-    width = 960,
-    barHeight = 20,
-    barWidth = (width - margin.left - margin.right) * 0.8;
+var margin = {top: 20, right: 120, bottom: 20, left: 120},
+    width = 960 - margin.right - margin.left,
+    height = 800 - margin.top - margin.bottom;
 var i = 0,
-    duration = 400,
+    duration = 750,
     root;
-var diagonal = d3.linkHorizontal()
-    .x(function(d) { return d.y; })
-    .y(function(d) { return d.x; });
+var tree = d3.layout.tree()
+    .size([height, width]);
+var diagonal = d3.svg.diagonal()
+    .projection(function(d) { return [d.y, d.x]; });
 var svg = d3.select("body").append("svg")
-    .attr("width", width) // + margin.left + margin.right)
+    .attr("width", width + margin.right + margin.left)
+    .attr("height", height + margin.top + margin.bottom)
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 d3.json("flare.json", function(error, flare) {
   if (error) throw error;
-  root = d3.hierarchy(flare);
-  root.x0 = 0;
+  root = flare;
+  root.x0 = height / 2;
   root.y0 = 0;
+  function collapse(d) {
+    if (d.children) {
+      d._children = d.children;
+      d._children.forEach(collapse);
+      d.children = null;
+    }
+  }
+  root.children.forEach(collapse);
   update(root);
 });
+d3.select(self.frameElement).style("height", "800px");
 function update(source) {
-  // Compute the flattened node list.
-  var nodes = root.descendants();
-  var height = Math.max(500, nodes.length * barHeight + margin.top + margin.bottom);
-  d3.select("svg").transition()
-      .duration(duration)
-      .attr("height", height);
-  d3.select(self.frameElement).transition()
-      .duration(duration)
-      .style("height", height + "px");
-  // Compute the "layout". TODO https://github.com/d3/d3-hierarchy/issues/67
-  var index = -1;
-  root.eachBefore(function(n) {
-    n.x = ++index * barHeight;
-    n.y = n.depth * 20;
-  });
+  // Compute the new tree layout.
+  var nodes = tree.nodes(root).reverse(),
+      links = tree.links(nodes);
+  // Normalize for fixed-depth.
+  nodes.forEach(function(d) { d.y = d.depth * 180; });
   // Update the nodes…
-  var node = svg.selectAll(".node")
-    .data(nodes, function(d) { return d.id || (d.id = ++i); });
+  var node = svg.selectAll("g.node")
+      .data(nodes, function(d) { return d.id || (d.id = ++i); });
+  // Enter any new nodes at the parent's previous position.
   var nodeEnter = node.enter().append("g")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
-      .style("opacity", 0);
-  // Enter any new nodes at the parent's previous position.
-  nodeEnter.append("rect")
-      .attr("y", -barHeight / 2)
-      .attr("height", barHeight)
-      .attr("width", barWidth)
-      .style("fill", color)
       .on("click", click);
+  nodeEnter.append("circle")
+      .attr("r", 1e-6)
+      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
   nodeEnter.append("text")
-      .attr("dy", 3.5)
-      .attr("dx", 5.5)
-      .text(function(d) { return d.data.name; });
+      .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
+      .attr("dy", ".35em")
+      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
+      .text(function(d) { return d.name; })
+      .style("fill-opacity", 1e-6);
   // Transition nodes to their new position.
-  nodeEnter.transition()
+  var nodeUpdate = node.transition()
       .duration(duration)
-      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
-      .style("opacity", 1);
-  node.transition()
-      .duration(duration)
-      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
-      .style("opacity", 1)
-    .select("rect")
-      .style("fill", color);
+      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
+  nodeUpdate.select("circle")
+      .attr("r", 4.5)
+      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+  nodeUpdate.select("text")
+      .style("fill-opacity", 1);
   // Transition exiting nodes to the parent's new position.
-  node.exit().transition()
+  var nodeExit = node.exit().transition()
       .duration(duration)
       .attr("transform", function(d) { return "translate(" + source.y + "," + source.x + ")"; })
-      .style("opacity", 0)
       .remove();
+  nodeExit.select("circle")
+      .attr("r", 1e-6);
+  nodeExit.select("text")
+      .style("fill-opacity", 1e-6);
   // Update the links…
-  var link = svg.selectAll(".link")
-    .data(root.links(), function(d) { return d.target.id; });
+  var link = svg.selectAll("path.link")
+      .data(links, function(d) { return d.target.id; });
   // Enter any new links at the parent's previous position.
   link.enter().insert("path", "g")
       .attr("class", "link")
       .attr("d", function(d) {
         var o = {x: source.x0, y: source.y0};
         return diagonal({source: o, target: o});
-      })
-    .transition()
-      .duration(duration)
-      .attr("d", diagonal);
+      });
   // Transition links to their new position.
   link.transition()
       .duration(duration)
@@ -286,7 +263,7 @@ function update(source) {
       })
       .remove();
   // Stash the old positions for transition.
-  root.each(function(d) {
+  nodes.forEach(function(d) {
     d.x0 = d.x;
     d.y0 = d.y;
   });
@@ -301,8 +278,5 @@ function click(d) {
     d._children = null;
   }
   update(d);
-}
-function color(d) {
-  return d._children ? "#3182bd" : d.children ? "#c6dbef" : "#fd8d3c";
 }
 </script>
