@@ -1,51 +1,64 @@
 {
- "name": "Target",
+ "name": "flare",
  "children": [
   {
-   "name": "Physical",
+   "name": "analytics",
    "children": [
-      {"name": "Offices", "value": 3000},
-      {"name": "Datacenter Locations", "value": 3812},
-      {"name": "Third Party", "value": 6714}
+    {
+     "name": "cluster",
+     "children": [
+      {"name": "AgglomerativeCluster", "value": 3938},
+      {"name": "CommunityStructure", "value": 3812},
+      {"name": "HierarchicalCluster", "value": 6714},
+      {"name": "MergeEdge", "value": 743}
      ]
+    },
+    {
+     "name": "graph",
+     "children": [
+      {"name": "BetweennessCentrality", "value": 3534},
+      {"name": "LinkDistance", "value": 5731},
+      {"name": "MaxFlowMinCut", "value": 7840},
+      {"name": "ShortestPaths", "value": 5914},
+      {"name": "SpanningTree", "value": 3416}
+     ]
+    },
+    {
+     "name": "optimization",
+     "children": [
+      {"name": "AspectRatioBanker", "value": 7074}
+     ]
+    }
+   ]
   },
   {
-   "name": "Logical",
+   "name": "animate",
    "children": [
+    {"name": "Easing", "value": 17010},
+    {"name": "FunctionSequence", "value": 5842},
     {
-	"name": "Founded",
-	"children": [
-		{"name": "Date", "value": 17010}
-		]
-	},
-    {"name": "Competitors", "value": 5842}
-    {
-     "name": "Employees",
+     "name": "interpolate",
      "children": [
-      {"name": "LinkedIn", "value": 1983}
+      {"name": "ArrayInterpolator", "value": 1983},
+      {"name": "ColorInterpolator", "value": 2047},
+      {"name": "DateInterpolator", "value": 1375},
+      {"name": "Interpolator", "value": 8746},
+      {"name": "MatrixInterpolator", "value": 2202},
+      {"name": "NumberInterpolator", "value": 1382},
+      {"name": "ObjectInterpolator", "value": 1629},
+      {"name": "PointInterpolator", "value": 1675},
+      {"name": "RectangleInterpolator", "value": 2042}
      ]
     },
-    {"name": "Case Studies", "value": 1041},
-    {"name": "Funding Rounds", "value": 5176},
-    {"name": "StackShare", "value": 449},
-    {"name": "Public Records", "value": 5593},
-    {"name": "OpenSecrets", "value": 5534},
-    {"name": "Partners", "value": 9201},
-    {"name": "Investors", "value": 19975}
-    {
-     "name": "Job Postions",
-     "children": [
-      {"name": "Indeed", "value": 1983},
-	  {"name": "LinkedIn", "value": 1987},
-	  {"name": "Monster", "value": 1988}
-     ]
-    },
-    {
-     "name": "Employees",
-     "children": [
-      {"name": "LinkedIn", "value": 1983}
-     ]
-	}
+    {"name": "ISchedulable", "value": 1041},
+    {"name": "Parallel", "value": 5176},
+    {"name": "Pause", "value": 449},
+    {"name": "Scheduler", "value": 5593},
+    {"name": "Sequence", "value": 5534},
+    {"name": "Transition", "value": 9201},
+    {"name": "Transitioner", "value": 19975},
+    {"name": "TransitionEvent", "value": 1116},
+    {"name": "Tween", "value": 6006}
    ]
   },
   {
@@ -81,7 +94,7 @@
   {
    "name": "flex",
    "children": [
-    {"name": "flexlink", "link": "href='reddit.com'", "value": 4116}
+    {"name": "FlareVis", "value": 4116}
    ]
   },
   {
@@ -98,7 +111,7 @@
    ]
   },
   {
-   "name": "Internet of Things",
+   "name": "query",
    "children": [
     {"name": "AggregateExpression", "value": 1616},
     {"name": "And", "value": 1027},
@@ -228,7 +241,7 @@
    ]
   },
   {
-   "name": "Infrastructure",
+   "name": "vis",
    "children": [
     {
      "name": "axis",
