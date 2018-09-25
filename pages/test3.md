@@ -1,6 +1,6 @@
   <div class="index">
   123
-    <iframe sandbox="allow-popups allow-scripts allow-forms allow-same-origin" src="test3.md" marginwidth="0" marginheight="0" style="height:500px;" scrolling="no"></iframe>
+    <iframe sandbox="allow-popups allow-scripts allow-forms allow-same-origin" src="./pages/test3.md" marginwidth="0" marginheight="0" style="height:500px;" scrolling="no"></iframe>
   </div>
   
 <script src="//code.jquery.com/jquery.js"></script>
