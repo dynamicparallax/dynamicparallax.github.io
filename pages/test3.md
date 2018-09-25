@@ -1,12 +1,7 @@
   <div class="index">
     
-    <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="test3.html" style="border: 2; width:800px; height:800px;"></iframe>
+    <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="test3.html" style="border: 2; width:300px; height:200px;"></iframe>
   
-  </div>
-  
-
-  <div class="index-pop">
-    <a target="_blank" title="Open Block 4339083 a new window." href="test3.html">Open<svg height="16" width="12"><path d="M11 10h1v3c0 0.55-0.45 1-1 1H1c-0.55 0-1-0.45-1-1V3c0-0.55 0.45-1 1-1h3v1H1v10h10V10zM6 2l2.25 2.25-3.25 3.25 1.5 1.5 3.25-3.25 2.25 2.25V2H6z"></path></svg></a>
   </div>
   
 <script src="//code.jquery.com/jquery.js"></script>
