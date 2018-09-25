@@ -1,6 +1,4 @@
   <div class="index">
-
-    <iframe sandbox="allow-popups allow-scripts allow-forms allow-same-origin" src="test3.html" marginwidth="0" marginheight="0" style="height:500px;" scrolling="no"></iframe>
     
     <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="test3.html" style="border: 2; width:800px; height:800px;"></iframe>
   
