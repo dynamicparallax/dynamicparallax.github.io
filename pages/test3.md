@@ -1,9 +1,9 @@
   <div class="index">
 
     <iframe sandbox="allow-popups allow-scripts allow-forms allow-same-origin" src="test3.html" marginwidth="0" marginheight="0" style="height:500px;" scrolling="no"></iframe>
+    
+    <iframe src="test3.htm" sandbox="allow-same-origin allow-scripts">
   </div>
-  
-<div class="frame">
   
 <script src="//code.jquery.com/jquery.js"></script>
 <style>
@@ -293,4 +293,3 @@ function click(d) {
 }
 
 </script>
-</div>
