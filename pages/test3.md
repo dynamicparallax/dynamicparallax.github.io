@@ -1,11 +1,9 @@
-  <div class="index">
-    
+<div class="index">
+
     <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="test3.html" style="border: 2; width:300px; height:200px;"></iframe>
   
-  </div>
-  
-<div>
-  <p>
+</div>
+
 <script src="//code.jquery.com/jquery.js"></script>
 <style>
 
@@ -294,5 +292,3 @@ function click(d) {
 }
 
 </script>
-</p>
-</div>
