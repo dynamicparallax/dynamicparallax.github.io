@@ -4,6 +4,8 @@
   
   </div>
   
+<div align="center" style="border:1px solid red">
+  
 <script src="//code.jquery.com/jquery.js"></script>
 <style>
 
@@ -292,3 +294,4 @@ function click(d) {
 }
 
 </script>
+</div>
