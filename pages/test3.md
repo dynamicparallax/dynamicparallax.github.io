@@ -2,7 +2,8 @@
 
     <iframe sandbox="allow-popups allow-scripts allow-forms allow-same-origin" src="test3.html" marginwidth="0" marginheight="0" style="height:500px;" scrolling="no"></iframe>
     
-    <iframe src="test3.html" sandbox="allow-same-origin allow-scripts">
+  <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="test3.html" style="border: 0; width:330px; height:330px;"></iframe>
+  
   </div>
   
 <script src="//code.jquery.com/jquery.js"></script>
