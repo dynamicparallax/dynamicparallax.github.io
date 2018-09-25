@@ -1,15 +1,9 @@
-<div class="index">
-
-    <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="test3.html" style="border: 2; width:300px; height:200px;"></iframe>
-  
-</div>
-
 <script src="//code.jquery.com/jquery.js"></script>
 <style>
 
-.node {
-  cursor: pointer;
-}
+    .node {
+      cursor: pointer;
+    }
 
 .node circle {
   fill: #fff;
@@ -37,8 +31,8 @@
 <div id="tree-container"></div>
 <script>
 
-var width = $("#d3div").width(),
-    height = 500;
+var width = $("#tree-container").width(),
+    height = 0;
 
 var color = d3.scale.category20();
 
@@ -47,7 +41,7 @@ var force = d3.layout.force()
     .linkDistance(30)
     .size([width, height]);
 
-var svg = d3.select("#d3div").append("svg")
+var svg = d3.select("#tree-container").append("svg")
     .attr("width", width)
     .attr("height", height);
 
