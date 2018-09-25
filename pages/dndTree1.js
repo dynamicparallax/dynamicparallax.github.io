@@ -409,7 +409,7 @@ treeJSON = d3.json("flare.json", function(error, treeData) {
         nodeEnter.append("circle")
             .attr('class', 'ghostCircle')
             .attr("r", 30)
-            .attr("opacity", 0.2) // change this to zero to hide the target area
+            .attr("opacity", 0.0) // change this to zero to hide the target area
         .style("fill", "red")
             .attr('pointer-events', 'mouseover')
             .on("mouseover", function(node) {
