@@ -203,6 +203,47 @@ treeJSON = d3.json("flare.json", function(error, treeData) {
             updateTempConnector();
         }).on("dragend", function(d) {
             if (d == root) {
+                return;
+            }
+            domNode = this;
+            if (selectedNode) {
+                // now remove the element from the parent, and insert it into the new elements children
+                var index = draggingNode.parent.children.indexOf(draggingNode);
+                if (index > -1) {
+                    draggingNode.parent.children.splice(index, 1);
+                }
+                if (typeof selectedNode.children !== 'undefined' || typeof selectedNode._children !== 'undefined') {
+                    if (typeof selectedNode.children !== 'undefined') {
+                        selectedNode.children.push(draggingNode);
+                    } else {
+                        selectedNode._children.push(draggingNode);
+                    }
+                } else {
+                    selectedNode.children = [];
+                    selectedNode.children.push(draggingNode);
+                }
+                // Make sure that the node being added to is expanded so user can see added node is correctly moved
+                expand(selectedNode);
+                sortTree();
+                endDrag();
+            } else {
+                endDrag();
+            }
+        });
+
+    function endDrag() {
+        selectedNode = null;
+        d3.selectAll('.ghostCircle').attr('class', 'ghostCircle');
+        d3.select(domNode).attr('class', 'node');
+        // now restore the mouseover event or we won't be able to drag a 2nd time
+        d3.select(domNode).select('.ghostCircle').attr('pointer-events', '');
+        updateTempConnector();
+        if (draggingNode !== null) {
+            update(root);
+            centerNode(draggingNode);
+            draggingNode = null;
+        }
+    }
 
     // Helper functions for collapsing and expanding nodes.
 
@@ -364,7 +405,20 @@ treeJSON = d3.json("flare.json", function(error, treeData) {
             })
             .style("fill-opacity", 0);
 
- 
+        // phantom node to give us mouseover in a radius around it
+        nodeEnter.append("circle")
+            .attr('class', 'ghostCircle')
+            .attr("r", 30)
+            .attr("opacity", 0.2) // change this to zero to hide the target area
+        .style("fill", "red")
+            .attr('pointer-events', 'mouseover')
+            .on("mouseover", function(node) {
+                overCircle(node);
+            })
+            .on("mouseout", function(node) {
+                outCircle(node);
+            });
+
         // Update the text to reflect whether node has children or not.
         node.select('text')
             .attr("x", function(d) {
