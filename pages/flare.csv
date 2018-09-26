@@ -2,7 +2,7 @@ id,value
 flare,
 flare.analytics,
 flare.analytics.cluster,
-flare.analytics.cluster.AgglomerativeCluster2<a href="https://nmap.org/" target="_blank"></a>,3938
+flare.analytics.cluster.AgglomerativeCluster,3938
 flare.analytics.cluster.CommunityStructure,3812
 flare.analytics.cluster.HierarchicalCluster,6714
 flare.analytics.cluster.MergeEdge,743
