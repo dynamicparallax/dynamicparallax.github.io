@@ -2,7 +2,7 @@ id,value
 flare,
 flare.analytics,
 flare.analytics.cluster,
-flare.analytics.cluster.<a href="https://github.com/dynamicparallax?tab=repositories">AgglomerativeCluster2</a>,3938
+flare.analytics.cluster.AgglomerativeCluster2,3938,<a href="https://github.com/dynamicparallax?tab=repositories"></a>
 flare.analytics.cluster.CommunityStructure,3812
 flare.analytics.cluster.HierarchicalCluster,6714
 flare.analytics.cluster.MergeEdge,743
