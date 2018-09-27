@@ -1,9 +1,9 @@
 id,value
 Target,
-Target.Physical,
-Target.Physical.Offices,3222
-Target.Physical.Datacenter.Locations,3938
-Target. Physical.Third-Party.Service.Providers,3812
+Target.analytics,
+Target.analytics.cluster,
+Target.analytics.cluster.testing,3938
+Target.analytics.cluster.CommunityStructure,3812
 Target.analytics.cluster.HierarchicalCluster,6714
 Target.analytics.cluster.MergeEdge,743
 Target.analytics.graph,
@@ -251,4 +251,3 @@ Target.vis.operator.OperatorSequence,4190
 Target.vis.operator.OperatorSwitch,2581
 Target.vis.operator.SortOperator,2023
 Target.vis.Visualization,16540
-
