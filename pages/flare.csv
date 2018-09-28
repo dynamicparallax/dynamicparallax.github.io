@@ -49,11 +49,11 @@ Target.data.DataSet,586
 Target.data.DataSource,3331
 Target.data.DataTable,772
 Target.data.DataUtil,3322
-Target.display,
-Target.display.DirtySprite,8833
-Target.display.LineSprite,1732
-Target.display.RectSprite,3623
-Target.display.TextSprite,10066
+Target.Physical,
+Target.Physical.Offices,8833
+Target.Physical.Datacenter.Locations,1732
+Target.Physical.Third-Party.Service.Providers,3623
+Target.Physical.TextSprite,10066
 Target.flex,
 Target.flex.TargetVis,4116
 Target.physics,
@@ -142,7 +142,7 @@ Target.util,
 Target.util.Arrays,8258
 Target.util.Colors,10001
 Target.util.Dates,8217
-Target.util.Displays,12555
+Target.util.Physicals,12555
 Target.util.Filter,2324
 Target.util.Geometry,10993
 Target.util.heap,
