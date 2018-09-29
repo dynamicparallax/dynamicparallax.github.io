@@ -51,8 +51,8 @@ Target.data.DataTable,772
 Target.data.DataUtil,3322
 Target.Physical,
 Target.Physical.Offices,8833
-Target.Physical.Datacenter.Locations,1732
-Target.Physical.Third.Party.Service.Providers,3623
+Target.Physical.Datacenter Locations,1732
+Target.Physical.Third-Party Service Providers,3623
 Target.Physical.TextSprite,10066
 Target.flex,
 Target.flex.TargetVis,4116
