@@ -180,9 +180,9 @@ Target.Internet of Things.Recon,
 Target.Internet of Things.Recon.External,
 Target.Internet of Things.Recon.External.Identify Ports and Interfaces,24593
 Target.Internet of Things.Recon.External.Check Voltage and Power,652
-Target.Internet of Things.Recon.focid.io,
-Target.Internet of Things.Recon.focid.io.Does it reveal Details About the Target,636
-Target.Internet of Things.Recon.focid.io.Identify Chipsets Being Used,6703
+Target.Internet of Things.Recon.focidio,
+Target.Internet of Things.Recon.focidio.Does it reveal Details About the Target,636
+Target.Internet of Things.Recon.focidio.Identify Chipsets Being Used,6703
 Target.Internet of Things.controls,
 Target.Internet of Things.controls.AnchorControl,2138
 Target.Internet of Things.controls.ClickControl,3824
