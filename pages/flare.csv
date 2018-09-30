@@ -180,13 +180,17 @@ Target.Internet of Things.Recon,
 Target.Internet of Things.Recon.External,
 Target.Internet of Things.Recon.External.Identify Interfaces,24593
 Target.Internet of Things.Recon.External.Check Voltage,652
-Target.Internet of Things.Recon.focidio,
-Target.Internet of Things.Recon.focidio.Details About the Target?,636
-Target.Internet of Things.Recon.focidio.Identify Chipsets?,6703
-Target.Internet of Things.Recon.focidio.Identify Exposed Interface,6705
-Target.Internet of Things.Recon.focidio.Internal External Pictures,6707
-Target.Internet of Things.Recon.focidio.Test Cases,6709
-Target.Internet of Things.Recon.focidio.Frequency Used?,6711
+Target.Internet of Things.Recon.External.focidio,
+Target.Internet of Things.Recon.Externalfocidio.Details About the Target?,636
+Target.Internet of Things.Recon.External.focidio.Identify Chipsets?,6703
+Target.Internet of Things.Recon.External.focidio.Identify Exposed Interface,6705
+Target.Internet of Things.Recon.External.focidio.Internal External Pictures,6707
+Target.Internet of Things.Recon.External.focidio.Test Cases,6709
+Target.Internet of Things.Recon.External.focidio.Frequency Used?,6711
+Target.Internet of Things.Recon.Internal,
+Target.Internet of Things.Recon.Internal.Identify Chipsets,24693
+Target.Internet of Things.Recon.Internal.Identify Other Components,752
+Target.Internet of Things.Recon.Internal.Copper Tracing,755
 Target.Internet of Things.controls,
 Target.Internet of Things.controls.AnchorControl,2138
 Target.Internet of Things.controls.ClickControl,3824
