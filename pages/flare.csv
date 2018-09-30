@@ -19,6 +19,10 @@ Target.Logical.Funding Rounds,7080
 Target.Logical.Stackshare,7090
 Target.Logical.Employees,
 Target.Logical.Employees.LinkedIn,7095
+Target.Logical.Public Legal Records,7090
+Target.Logical.Opensecrets,7090
+Target.Logical.Partners,7090
+Target.Logical.Investors,7090
 Target.animate,
 Target.animate.Easing,17010
 Target.animate.FunctionSequence,5842
