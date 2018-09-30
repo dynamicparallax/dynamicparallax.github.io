@@ -1,19 +1,19 @@
 id,value
 Target,
-Target.analytics,
-Target.analytics.cluster,
-Target.analytics.cluster.testing,3938
-Target.analytics.cluster.CommunityStructure,3812
-Target.analytics.cluster.HierarchicalCluster,6714
-Target.analytics.cluster.MergeEdge,743
-Target.analytics.graph,
-Target.analytics.graph.BetweennessCentrality,3534
-Target.analytics.graph.LinkDistance,5731
-Target.analytics.graph.MaxFlowMinCut,7840
-Target.analytics.graph.ShortestPaths,5914
-Target.analytics.graph.SpanningTree,3416
-Target.analytics.optimization,
-Target.analytics.optimization.AspectRatioBanker,7074
+Target.Logical,
+Target.Logical.cluster,
+Target.Logical.cluster.testing,3938
+Target.Logical.cluster.CommunityStructure,3812
+Target.Logical.cluster.HierarchicalCluster,6714
+Target.Logical.cluster.MergeEdge,743
+Target.Logical.Job Postions,
+Target.Logical.Job Postions.Indeed,3534
+Target.Logical.Job Postions.LinkIn,5731
+Target.Logical.Job Postions.Monster,7840
+Target.Logical.Job Postions.Career Builder,5914
+Target.Logical.Job Postions.Company Website,3416
+Target.Logical.optimization,
+Target.Logical.optimization.AspectRatioBanker,7074
 Target.animate,
 Target.animate.Easing,17010
 Target.animate.FunctionSequence,5842
