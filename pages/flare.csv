@@ -63,7 +63,7 @@ Target.Physical.Offices,8833
 Target.Physical.Datacenter Locations,1732
 Target.Physical.Third-Party Service Providers,3623
 Target.flex,
-Target.flex.TargetVis,4116
+Target.flex.TargetInternet of Things,4116
 Target.physics,
 Target.physics.DragForce,1082
 Target.physics.GravityForce,1336
@@ -175,87 +175,87 @@ Target.util.Shapes,19118
 Target.util.Sort,6887
 Target.util.Stats,6557
 Target.util.Strings,22026
-Target.vis,
-Target.vis.axis,
-Target.vis.axis.Axes,1302
-Target.vis.axis.Axis,24593
-Target.vis.axis.AxisGridLine,652
-Target.vis.axis.AxisLabel,636
-Target.vis.axis.CartesianAxes,6703
-Target.vis.controls,
-Target.vis.controls.AnchorControl,2138
-Target.vis.controls.ClickControl,3824
-Target.vis.controls.Control,1353
-Target.vis.controls.ControlList,4665
-Target.vis.controls.DragControl,2649
-Target.vis.controls.ExpandControl,2832
-Target.vis.controls.HoverControl,4896
-Target.vis.controls.IControl,763
-Target.vis.controls.PanZoomControl,5222
-Target.vis.controls.SelectionControl,7862
-Target.vis.controls.TooltipControl,8435
-Target.vis.data,
-Target.vis.data.Data,20544
-Target.vis.data.DataList,19788
-Target.vis.data.DataSprite,10349
-Target.vis.data.EdgeSprite,3301
-Target.vis.data.NodeSprite,19382
-Target.vis.data.render,
-Target.vis.data.render.ArrowType,698
-Target.vis.data.render.EdgeRenderer,5569
-Target.vis.data.render.IRenderer,353
-Target.vis.data.render.ShapeRenderer,2247
-Target.vis.data.ScaleBinding,11275
-Target.vis.data.Tree,7147
-Target.vis.data.TreeBuilder,9930
-Target.vis.events,
-Target.vis.events.DataEvent,2313
-Target.vis.events.SelectionEvent,1880
-Target.vis.events.TooltipEvent,1701
-Target.vis.events.VisualizationEvent,1117
-Target.vis.legend,
-Target.vis.legend.Legend,20859
-Target.vis.legend.LegendItem,4614
-Target.vis.legend.LegendRange,10530
-Target.vis.operator,
-Target.vis.operator.distortion,
-Target.vis.operator.distortion.BifocalDistortion,4461
-Target.vis.operator.distortion.Distortion,6314
-Target.vis.operator.distortion.FisheyeDistortion,3444
-Target.vis.operator.encoder,
-Target.vis.operator.encoder.ColorEncoder,3179
-Target.vis.operator.encoder.Encoder,4060
-Target.vis.operator.encoder.PropertyEncoder,4138
-Target.vis.operator.encoder.ShapeEncoder,1690
-Target.vis.operator.encoder.SizeEncoder,1830
-Target.vis.operator.filter,
-Target.vis.operator.filter.FisheyeTreeFilter,5219
-Target.vis.operator.filter.GraphDistanceFilter,3165
-Target.vis.operator.filter.VisibilityFilter,3509
-Target.vis.operator.IOperator,1286
-Target.vis.operator.label,
-Target.vis.operator.label.Labeler,9956
-Target.vis.operator.label.RadialLabeler,3899
-Target.vis.operator.label.StackedAreaLabeler,3202
-Target.vis.operator.layout,
-Target.vis.operator.layout.AxisLayout,6725
-Target.vis.operator.layout.BundledEdgeRouter,3727
-Target.vis.operator.layout.CircleLayout,9317
-Target.vis.operator.layout.CirclePackingLayout,12003
-Target.vis.operator.layout.DendrogramLayout,4853
-Target.vis.operator.layout.ForceDirectedLayout,8411
-Target.vis.operator.layout.IcicleTreeLayout,4864
-Target.vis.operator.layout.IndentedTreeLayout,3174
-Target.vis.operator.layout.Layout,7881
-Target.vis.operator.layout.NodeLinkTreeLayout,12870
-Target.vis.operator.layout.PieLayout,2728
-Target.vis.operator.layout.RadialTreeLayout,12348
-Target.vis.operator.layout.RandomLayout,870
-Target.vis.operator.layout.StackedAreaLayout,9121
-Target.vis.operator.layout.TreeMapLayout,9191
-Target.vis.operator.Operator,2490
-Target.vis.operator.OperatorList,5248
-Target.vis.operator.OperatorSequence,4190
-Target.vis.operator.OperatorSwitch,2581
-Target.vis.operator.SortOperator,2023
-Target.vis.Visualization,16540
+Target.Internet of Things,
+Target.Internet of Things.axis,
+Target.Internet of Things.axis.Axes,1302
+Target.Internet of Things.axis.Axis,24593
+Target.Internet of Things.axis.AxisGridLine,652
+Target.Internet of Things.axis.AxisLabel,636
+Target.Internet of Things.axis.CartesianAxes,6703
+Target.Internet of Things.controls,
+Target.Internet of Things.controls.AnchorControl,2138
+Target.Internet of Things.controls.ClickControl,3824
+Target.Internet of Things.controls.Control,1353
+Target.Internet of Things.controls.ControlList,4665
+Target.Internet of Things.controls.DragControl,2649
+Target.Internet of Things.controls.ExpandControl,2832
+Target.Internet of Things.controls.HoverControl,4896
+Target.Internet of Things.controls.IControl,763
+Target.Internet of Things.controls.PanZoomControl,5222
+Target.Internet of Things.controls.SelectionControl,7862
+Target.Internet of Things.controls.TooltipControl,8435
+Target.Internet of Things.data,
+Target.Internet of Things.data.Data,20544
+Target.Internet of Things.data.DataList,19788
+Target.Internet of Things.data.DataSprite,10349
+Target.Internet of Things.data.EdgeSprite,3301
+Target.Internet of Things.data.NodeSprite,19382
+Target.Internet of Things.data.render,
+Target.Internet of Things.data.render.ArrowType,698
+Target.Internet of Things.data.render.EdgeRenderer,5569
+Target.Internet of Things.data.render.IRenderer,353
+Target.Internet of Things.data.render.ShapeRenderer,2247
+Target.Internet of Things.data.ScaleBinding,11275
+Target.Internet of Things.data.Tree,7147
+Target.Internet of Things.data.TreeBuilder,9930
+Target.Internet of Things.events,
+Target.Internet of Things.events.DataEvent,2313
+Target.Internet of Things.events.SelectionEvent,1880
+Target.Internet of Things.events.TooltipEvent,1701
+Target.Internet of Things.events.Internet of ThingsualizationEvent,1117
+Target.Internet of Things.legend,
+Target.Internet of Things.legend.Legend,20859
+Target.Internet of Things.legend.LegendItem,4614
+Target.Internet of Things.legend.LegendRange,10530
+Target.Internet of Things.operator,
+Target.Internet of Things.operator.distortion,
+Target.Internet of Things.operator.distortion.BifocalDistortion,4461
+Target.Internet of Things.operator.distortion.Distortion,6314
+Target.Internet of Things.operator.distortion.FisheyeDistortion,3444
+Target.Internet of Things.operator.encoder,
+Target.Internet of Things.operator.encoder.ColorEncoder,3179
+Target.Internet of Things.operator.encoder.Encoder,4060
+Target.Internet of Things.operator.encoder.PropertyEncoder,4138
+Target.Internet of Things.operator.encoder.ShapeEncoder,1690
+Target.Internet of Things.operator.encoder.SizeEncoder,1830
+Target.Internet of Things.operator.filter,
+Target.Internet of Things.operator.filter.FisheyeTreeFilter,5219
+Target.Internet of Things.operator.filter.GraphDistanceFilter,3165
+Target.Internet of Things.operator.filter.Internet of ThingsibilityFilter,3509
+Target.Internet of Things.operator.IOperator,1286
+Target.Internet of Things.operator.label,
+Target.Internet of Things.operator.label.Labeler,9956
+Target.Internet of Things.operator.label.RadialLabeler,3899
+Target.Internet of Things.operator.label.StackedAreaLabeler,3202
+Target.Internet of Things.operator.layout,
+Target.Internet of Things.operator.layout.AxisLayout,6725
+Target.Internet of Things.operator.layout.BundledEdgeRouter,3727
+Target.Internet of Things.operator.layout.CircleLayout,9317
+Target.Internet of Things.operator.layout.CirclePackingLayout,12003
+Target.Internet of Things.operator.layout.DendrogramLayout,4853
+Target.Internet of Things.operator.layout.ForceDirectedLayout,8411
+Target.Internet of Things.operator.layout.IcicleTreeLayout,4864
+Target.Internet of Things.operator.layout.IndentedTreeLayout,3174
+Target.Internet of Things.operator.layout.Layout,7881
+Target.Internet of Things.operator.layout.NodeLinkTreeLayout,12870
+Target.Internet of Things.operator.layout.PieLayout,2728
+Target.Internet of Things.operator.layout.RadialTreeLayout,12348
+Target.Internet of Things.operator.layout.RandomLayout,870
+Target.Internet of Things.operator.layout.StackedAreaLayout,9121
+Target.Internet of Things.operator.layout.TreeMapLayout,9191
+Target.Internet of Things.operator.Operator,2490
+Target.Internet of Things.operator.OperatorList,5248
+Target.Internet of Things.operator.OperatorSequence,4190
+Target.Internet of Things.operator.OperatorSwitch,2581
+Target.Internet of Things.operator.SortOperator,2023
+Target.Internet of Things.Internet of Thingsualization,16540
