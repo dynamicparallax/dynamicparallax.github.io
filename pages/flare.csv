@@ -63,7 +63,7 @@ Target.Physical.Offices,8833
 Target.Physical.Datacenter Locations,1732
 Target.Physical.Third-Party Service Providers,3623
 Target.flex,
-Target.flex.TargetInternet of Things,4116
+Target.flex.flexie,4116
 Target.physics,
 Target.physics.DragForce,1082
 Target.physics.GravityForce,1336
@@ -212,7 +212,7 @@ Target.Internet of Things.events,
 Target.Internet of Things.events.DataEvent,2313
 Target.Internet of Things.events.SelectionEvent,1880
 Target.Internet of Things.events.TooltipEvent,1701
-Target.Internet of Things.events.Internet of ThingsualizationEvent,1117
+Target.Internet of Things.events.visualizationEvent,1117
 Target.Internet of Things.legend,
 Target.Internet of Things.legend.Legend,20859
 Target.Internet of Things.legend.LegendItem,4614
