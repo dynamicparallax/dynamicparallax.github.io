@@ -1,19 +1,19 @@
 id,value
 Target,
 Target.Logical,
-Target.Logical.cluster,
-Target.Logical.cluster.testing,3938
-Target.Logical.cluster.CommunityStructure,3812
-Target.Logical.cluster.HierarchicalCluster,6714
-Target.Logical.cluster.MergeEdge,743
+Target.Logical.Misc,
+Target.Logical.Misc.Phone Lookup,3938
+Target.Logical.Misc.OpenSecrets,3812
+Target.Logical.Misc.Partners,6714
+Target.Logical.Misc.Investors,743
 Target.Logical.Job Postions,
 Target.Logical.Job Postions.Indeed,3534
-Target.Logical.Job Postions.LinkIn,5731
+Target.Logical.Job Postions.LinkedIn,5731
 Target.Logical.Job Postions.Monster,7840
 Target.Logical.Job Postions.Career Builder,5914
 Target.Logical.Job Postions.Company Website,3416
-Target.Logical.optimization,
-Target.Logical.optimization.AspectRatioBanker,7074
+Target.Logical.Founded,
+Target.Logical.Founded.Date,7074
 Target.animate,
 Target.animate.Easing,17010
 Target.animate.FunctionSequence,5842
