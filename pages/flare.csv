@@ -3,9 +3,8 @@ Target,
 Target.Logical,
 Target.Logical.Misc,
 Target.Logical.Misc.Phone Lookup,3938
-Target.Logical.Misc.OpenSecrets,3812
-Target.Logical.Misc.Partners,6714
-Target.Logical.Misc.Investors,743
+Target.Logical.Misc.License Plate Lookup,3812
+Target.Logical.Misc.Search People,6714
 Target.Logical.Job Postions,
 Target.Logical.Job Postions.Indeed,3534
 Target.Logical.Job Postions.LinkedIn,5731
