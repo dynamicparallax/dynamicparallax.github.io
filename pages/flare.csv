@@ -14,6 +14,9 @@ Target.Logical.Job Postions.Company Website,3416
 Target.Logical.Founded,
 Target.Logical.Founded.Date,7074
 Target.Logical.Competitors,7075
+Target.Logical.Case Studies,7077
+Target.Logical.Funding Rounds,7080
+Target.Logical.Stackshare,7090
 Target.animate,
 Target.animate.Easing,17010
 Target.animate.FunctionSequence,5842
