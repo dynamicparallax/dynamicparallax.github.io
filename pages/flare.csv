@@ -216,7 +216,10 @@ Target.Internet of Things.Testing.Connect to Interface.Shell.Authenticated.Dump 
 Target.Internet of Things.Testing.Connect to Interface.Shell.Authenticated.Modify Value and See if it Persists,20393
 Target.Internet of Things.Testing.Connect to Interface.Shell.Authenticated.Control via Shell,20305
 Target.Internet of Things.Testing.Connect to Interface.Shell.Authenticated.Does Shell Have Root?,20307
-Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated,20544
+Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated,
+Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Password in Firmware?,20544
+Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Bruteforce Password?,20555
+Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Bootload Attacks,20556
 Target.Internet of Things.Testing.DataList,19788
 Target.Internet of Things.Testing.DataSprite,10349
 Target.Internet of Things.Testing.EdgeSprite,3301
