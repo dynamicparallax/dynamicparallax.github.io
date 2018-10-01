@@ -215,7 +215,7 @@ Target.Internet of Things.Testing.Connect to Interface.Shell.Authenticated,
 Target.Internet of Things.Testing.Connect to Interface.Shell.Authenticated.Dump Firmware,20302
 Target.Internet of Things.Testing.Connect to Interface.Shell.Authenticated.Modify Value and See if it Persists,20393
 Target.Internet of Things.Testing.Connect to Interface.Shell.Authenticated.Control via Shell,20305
-Target.Internet of Things.Testing.Connect to Interface.Shell.Authenticated.Does Shell Have Root?.20307
+Target.Internet of Things.Testing.Connect to Interface.Shell.Authenticated.Does Shell Have Root?,20307
 Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated,20544
 Target.Internet of Things.Testing.DataList,19788
 Target.Internet of Things.Testing.DataSprite,10349
