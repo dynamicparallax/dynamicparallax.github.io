@@ -23,10 +23,158 @@ Target.Logical.Public Legal Records,7090
 Target.Logical.Opensecrets,7090
 Target.Logical.Partners,7090
 Target.Logical.Investors,7090
+Target.animate,
+Target.animate.Easing,17010
+Target.animate.FunctionSequence,5842
+Target.animate.interpolate,
+Target.animate.interpolate.ArrayInterpolator,1983
+Target.animate.interpolate.ColorInterpolator,2047
+Target.animate.interpolate.DateInterpolator,1375
+Target.animate.interpolate.Interpolator,8746
+Target.animate.interpolate.MatrixInterpolator,2202
+Target.animate.interpolate.NumberInterpolator,1382
+Target.animate.interpolate.ObjectInterpolator,1629
+Target.animate.interpolate.PointInterpolator,1675
+Target.animate.interpolate.RectangleInterpolator,2042
+Target.animate.ISchedulable,1041
+Target.animate.Parallel,5176
+Target.animate.Pause,449
+Target.animate.Scheduler,5593
+Target.animate.Sequence,5534
+Target.animate.Transition,9201
+Target.animate.Transitioner,19975
+Target.animate.TransitionEvent,1116
+Target.animate.Tween,6006
+Target.data,
+Target.data.converters,
+Target.data.converters.Converters,721
+Target.data.converters.DelimitedTextConverter,4294
+Target.data.converters.GraphMLConverter,9800
+Target.data.converters.IDataConverter,1314
+Target.data.converters.JSONConverter,2220
+Target.data.DataField,1759
+Target.data.DataSchema,2165
+Target.data.DataSet,586
+Target.data.DataSource,3331
+Target.data.DataTable,772
+Target.data.DataUtil,3322
 Target.Physical,
 Target.Physical.Offices,8833
 Target.Physical.Datacenter Locations,1732
 Target.Physical.Third-Party Service Providers,3623
+Target.flex,
+Target.flex.flexie,4116
+Target.physics,
+Target.physics.DragForce,1082
+Target.physics.GravityForce,1336
+Target.physics.IForce,319
+Target.physics.NBodyForce,10498
+Target.physics.Particle,2822
+Target.physics.Simulation,9983
+Target.physics.Spring,2213
+Target.physics.SpringForce,1681
+Target.query,
+Target.query.AggregateExpression,1616
+Target.query.And,1027
+Target.query.Arithmetic,3891
+Target.query.Average,891
+Target.query.BinaryExpression,2893
+Target.query.Comparison,5103
+Target.query.CompositeExpression,3677
+Target.query.Count,781
+Target.query.DateUtil,4141
+Target.query.Distinct,933
+Target.query.Expression,5130
+Target.query.ExpressionIterator,3617
+Target.query.Fn,3240
+Target.query.If,2732
+Target.query.IsA,2039
+Target.query.Literal,1214
+Target.query.Match,3748
+Target.query.Maximum,843
+Target.query.methods,
+Target.query.methods.add,593
+Target.query.methods.and,330
+Target.query.methods.average,287
+Target.query.methods.count,277
+Target.query.methods.distinct,292
+Target.query.methods.div,595
+Target.query.methods.eq,594
+Target.query.methods.fn,460
+Target.query.methods.gt,603
+Target.query.methods.gte,625
+Target.query.methods.iff,748
+Target.query.methods.isa,461
+Target.query.methods.lt,597
+Target.query.methods.lte,619
+Target.query.methods.max,283
+Target.query.methods.min,283
+Target.query.methods.mod,591
+Target.query.methods.mul,603
+Target.query.methods.neq,599
+Target.query.methods.not,386
+Target.query.methods.or,323
+Target.query.methods.orderby,307
+Target.query.methods.range,772
+Target.query.methods.select,296
+Target.query.methods.stddev,363
+Target.query.methods.sub,600
+Target.query.methods.sum,280
+Target.query.methods.update,307
+Target.query.methods.variance,335
+Target.query.methods.where,299
+Target.query.methods.xor,354
+Target.query.methods._,264
+Target.query.Minimum,843
+Target.query.Not,1554
+Target.query.Or,970
+Target.query.Query,13896
+Target.query.Range,1594
+Target.query.StringUtil,4130
+Target.query.Sum,791
+Target.query.Variable,1124
+Target.query.Variance,1876
+Target.query.Xor,1101
+Target.scale,
+Target.scale.IScaleMap,2105
+Target.scale.LinearScale,1316
+Target.scale.LogScale,3151
+Target.scale.OrdinalScale,3770
+Target.scale.QuantileScale,2435
+Target.scale.QuantitativeScale,4839
+Target.scale.RootScale,1756
+Target.scale.Scale,4268
+Target.scale.ScaleType,1821
+Target.scale.TimeScale,5833
+Target.util,
+Target.util.Arrays,8258
+Target.util.Colors,10001
+Target.util.Dates,8217
+Target.util.Physicals,12555
+Target.util.Filter,2324
+Target.util.Geometry,10993
+Target.util.heap,
+Target.util.heap.FibonacciHeap,9354
+Target.util.heap.HeapNode,1233
+Target.util.IEvaluable,335
+Target.util.IPredicate,383
+Target.util.IValueProxy,874
+Target.util.math,
+Target.util.math.DenseMatrix,3165
+Target.util.math.IMatrix,2815
+Target.util.math.SparseMatrix,3366
+Target.util.Maths,17705
+Target.util.Orientation,1486
+Target.util.palette,
+Target.util.palette.ColorPalette,6367
+Target.util.palette.Palette,1229
+Target.util.palette.ShapePalette,2059
+Target.util.palette.SizePalette,2291
+Target.util.Property,5559
+Target.util.Shapes,19118
+Target.util.Sort,6887
+Target.util.Stats,6557
+Target.util.Strings,22026
 Target.Internet of Things,
 Target.Internet of Things.Recon,
 Target.Internet of Things.Recon.External,
@@ -72,15 +220,66 @@ Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated,
 Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Password in Firmware?,20544
 Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Bruteforce Password?,20555
 Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Bootload Attacks,20556
-Target.Internet of Things.Testing.Analyze Firmware,
-Target.Internet of Things.Testing.Analyze Firmware.Encrytped Firmware?.Encryption type Used,
-Target.Internet of Things.Testing.Analyze Firmware.Encrytped Firmware?.Encryption type Used.hexdump,9121
-Target.Internet of Things.Testing.Analyze Firmware.Encrytped Firmware?.Encryption type Used.strings,9191
-Target.Internet of Things.Testing.Analyze Firmware.Encrytped Firmware?.Encryption type Used.binwalk,2490
-Target.Internet of Things.Testing.Analyze Firmware.Extract Firmware Components,
-Target.Internet of Things.Testing.Analyze Firmware.Extract Firmware Components.Extract the Filesystem.binwalk,5348
-Target.Internet of Things.Testing.Analyze Firmware.Extract Firmware Components.Hardcoded Credentials,
-Target.Internet of Things.Testing.Analyze Firmware.Extract Firmware Components.Hardcoded Credentials.API Keys,4190
-Target.Internet of Things.Testing.Analyze Firmware.Extract Firmware Components.Hardcoded Credentials.Private Certs,2581
-Target.Internet of Things.Testing.Analyze Firmware.Extract Firmware Components.Hardcoded Credentials.Backdoor,2023
-Target.Internet of Things.Testing.Analyze Firmware.Extract Firmware Components.Hardcoded Credentials.Config Files,16540
+Target.Internet of Things.Testing.DataList,19788
+Target.Internet of Things.Testing.DataSprite,10349
+Target.Internet of Things.Testing.EdgeSprite,3301
+Target.Internet of Things.Testing.NodeSprite,19382
+Target.Internet of Things.Testing.render,
+Target.Internet of Things.Testing.render.ArrowType,698
+Target.Internet of Things.Testing.render.EdgeRenderer,5569
+Target.Internet of Things.Testing.render.IRenderer,353
+Target.Internet of Things.Testing.render.ShapeRenderer,2247
+Target.Internet of Things.Testing.ScaleBinding,11275
+Target.Internet of Things.Testing.Tree,7147
+Target.Internet of Things.Testing.TreeBuilder,9930
+Target.Internet of Things.events,
+Target.Internet of Things.events.DataEvent,2313
+Target.Internet of Things.events.SelectionEvent,1880
+Target.Internet of Things.events.TooltipEvent,1701
+Target.Internet of Things.events.visualizationEvent,1117
+Target.Internet of Things.legend,
+Target.Internet of Things.legend.Legend,20859
+Target.Internet of Things.legend.LegendItem,4614
+Target.Internet of Things.legend.LegendRange,10530
+Target.Internet of Things.operator,
+Target.Internet of Things.operator.distortion,
+Target.Internet of Things.operator.distortion.BifocalDistortion,4461
+Target.Internet of Things.operator.distortion.Distortion,6314
+Target.Internet of Things.operator.distortion.FisheyeDistortion,3444
+Target.Internet of Things.operator.encoder,
+Target.Internet of Things.operator.encoder.ColorEncoder,3179
+Target.Internet of Things.operator.encoder.Encoder,4060
+Target.Internet of Things.operator.encoder.PropertyEncoder,4138
+Target.Internet of Things.operator.encoder.ShapeEncoder,1690
+Target.Internet of Things.operator.encoder.SizeEncoder,1830
+Target.Internet of Things.operator.filter,
+Target.Internet of Things.operator.filter.FisheyeTreeFilter,5219
+Target.Internet of Things.operator.filter.GraphDistanceFilter,3165
+Target.Internet of Things.operator.filter.visibilityFilter,3509
+Target.Internet of Things.operator.IOperator,1286
+Target.Internet of Things.operator.label,
+Target.Internet of Things.operator.label.Labeler,9956
+Target.Internet of Things.operator.label.RadialLabeler,3899
+Target.Internet of Things.operator.label.StackedAreaLabeler,3202
+Target.Internet of Things.operator.layout,
+Target.Internet of Things.operator.layout.AxisLayout,6725
+Target.Internet of Things.operator.layout.BundledEdgeRouter,3727
+Target.Internet of Things.operator.layout.CircleLayout,9317
+Target.Internet of Things.operator.layout.CirclePackingLayout,12003
+Target.Internet of Things.operator.layout.DendrogramLayout,4853
+Target.Internet of Things.operator.layout.ForceDirectedLayout,8411
+Target.Internet of Things.operator.layout.IcicleTreeLayout,4864
+Target.Internet of Things.operator.layout.IndentedTreeLayout,3174
+Target.Internet of Things.operator.layout.Layout,7881
+Target.Internet of Things.operator.layout.NodeLinkTreeLayout,12870
+Target.Internet of Things.operator.layout.PieLayout,2728
+Target.Internet of Things.operator.layout.RadialTreeLayout,12348
+Target.Internet of Things.operator.layout.RandomLayout,870
+Target.Internet of Things.operator.layout.StackedAreaLayout,9121
+Target.Internet of Things.operator.layout.TreeMapLayout,9191
+Target.Internet of Things.operator.Operator,2490
+Target.Internet of Things.operator.OperatorList,5248
+Target.Internet of Things.operator.OperatorSequence,4190
+Target.Internet of Things.operator.OperatorSwitch,2581
+Target.Internet of Things.operator.SortOperator,2023
+Target.Internet of Things.visualization,16540
