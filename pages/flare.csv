@@ -208,7 +208,15 @@ Target.Internet of Things.controls.PanZoomControl,5222
 Target.Internet of Things.controls.SelectionControl,7862
 Target.Internet of Things.controls.TooltipControl,8435
 Target.Internet of Things.Testing,
-Target.Internet of Things.Testing.Data,20544
+Target.Internet of Things.Testing,Connect to Interface,
+Target.Internet of Things.Testing,Connect to Interface,Indentify Baudrate,20301
+Target.Internet of Things.Testing,Connect to Interface,Shell,
+Target.Internet of Things.Testing,Connect to Interface,Shell,Authenticated,
+Target.Internet of Things.Testing,Connect to Interface,Shell,Authenticated,Dump Firmware,20302
+Target.Internet of Things.Testing,Connect to Interface,Shell,Authenticated,Modify Value and See if it Persists,20393
+Target.Internet of Things.Testing,Connect to Interface,Shell,Authenticated,Control via Shell,20305
+Target.Internet of Things.Testing,Connect to Interface,Shell,Authenticated,Does Shell Have Root?.20307
+Target.Internet of Things.Testing,Connect to Interface,Shell,Unauthenticated,20544
 Target.Internet of Things.Testing.DataList,19788
 Target.Internet of Things.Testing.DataSprite,10349
 Target.Internet of Things.Testing.EdgeSprite,3301
