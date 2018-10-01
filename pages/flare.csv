@@ -27,46 +27,6 @@ Target.Physical,
 Target.Physical.Offices,8833
 Target.Physical.Datacenter Locations,1732
 Target.Physical.Third-Party Service Providers,3623
-Target.scale,
-Target.scale.IScaleMap,2105
-Target.scale.LinearScale,1316
-Target.scale.LogScale,3151
-Target.scale.OrdinalScale,3770
-Target.scale.QuantileScale,2435
-Target.scale.QuantitativeScale,4839
-Target.scale.RootScale,1756
-Target.scale.Scale,4268
-Target.scale.ScaleType,1821
-Target.scale.TimeScale,5833
-Target.util,
-Target.util.Arrays,8258
-Target.util.Colors,10001
-Target.util.Dates,8217
-Target.util.Physicals,12555
-Target.util.Filter,2324
-Target.util.Geometry,10993
-Target.util.heap,
-Target.util.heap.FibonacciHeap,9354
-Target.util.heap.HeapNode,1233
-Target.util.IEvaluable,335
-Target.util.IPredicate,383
-Target.util.IValueProxy,874
-Target.util.math,
-Target.util.math.DenseMatrix,3165
-Target.util.math.IMatrix,2815
-Target.util.math.SparseMatrix,3366
-Target.util.Maths,17705
-Target.util.Orientation,1486
-Target.util.palette,
-Target.util.palette.ColorPalette,6367
-Target.util.palette.Palette,1229
-Target.util.palette.ShapePalette,2059
-Target.util.palette.SizePalette,2291
-Target.util.Property,5559
-Target.util.Shapes,19118
-Target.util.Sort,6887
-Target.util.Stats,6557
-Target.util.Strings,22026
 Target.Internet of Things,
 Target.Internet of Things.Recon,
 Target.Internet of Things.Recon.External,
