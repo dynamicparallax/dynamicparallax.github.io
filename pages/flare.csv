@@ -240,7 +240,7 @@ Target.Internet of Things.operator.encoder.SizeEncoder,1830
 Target.Internet of Things.operator.filter,
 Target.Internet of Things.operator.filter.FisheyeTreeFilter,5219
 Target.Internet of Things.operator.filter.GraphDistanceFilter,3165
-Target.Internet of Things.operator.filter.Internet of ThingsibilityFilter,3509
+Target.Internet of Things.operator.filter.visibilityFilter,3509
 Target.Internet of Things.operator.IOperator,1286
 Target.Internet of Things.operator.label,
 Target.Internet of Things.operator.label.Labeler,9956
@@ -267,4 +267,4 @@ Target.Internet of Things.operator.OperatorList,5248
 Target.Internet of Things.operator.OperatorSequence,4190
 Target.Internet of Things.operator.OperatorSwitch,2581
 Target.Internet of Things.operator.SortOperator,2023
-Target.Internet of Things.Internet of Thingsualization,16540
+Target.Internet of Things.visualization,16540
