@@ -41,7 +41,7 @@ Target.Internet of Things.Recon.External.fccid.Test Cases,6709
 Target.Internet of Things.Recon.External.fccid.Frequency Used?,6711
 Target.Internet of Things.Recon.Internal,
 Target.Internet of Things.Recon.Internal.Identify Chipsets,24693
-Target.Internet of Things.Recon.Internal.Identify Other Components,752
+Target.Internet of Things.Recon.Internal.Identify Components,752
 Target.Internet of Things.Recon.Internal.Copper Tracing,755
 Target.Internet of Things.Recon.Internal.Interface Pinouts,
 Target.Internet of Things.Recon.Internal.Interface Pinouts.Multimeter,24697
