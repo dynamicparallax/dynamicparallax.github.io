@@ -180,13 +180,13 @@ Target.Internet of Things.Recon,
 Target.Internet of Things.Recon.External,
 Target.Internet of Things.Recon.External.Identify Interfaces,24593
 Target.Internet of Things.Recon.External.Check Voltage,652
-Target.Internet of Things.Recon.External.focidio,
-Target.Internet of Things.Recon.External.focidio.Details About the Target?,636
-Target.Internet of Things.Recon.External.focidio.Identify Chipsets?,6703
-Target.Internet of Things.Recon.External.focidio.Identify Exposed Interface,6705
-Target.Internet of Things.Recon.External.focidio.Internal External Pictures,6707
-Target.Internet of Things.Recon.External.focidio.Test Cases,6709
-Target.Internet of Things.Recon.External.focidio.Frequency Used?,6711
+Target.Internet of Things.Recon.External.fccid,
+Target.Internet of Things.Recon.External.fccid.Details About the Target?,636
+Target.Internet of Things.Recon.External.fccid.Identify Chipsets?,6703
+Target.Internet of Things.Recon.External.fccid.Identify Exposed Interface,6705
+Target.Internet of Things.Recon.External.fccid.Internal External Pictures,6707
+Target.Internet of Things.Recon.External.fccid.Test Cases,6709
+Target.Internet of Things.Recon.External.fccid.Frequency Used?,6711
 Target.Internet of Things.Recon.Internal,
 Target.Internet of Things.Recon.Internal.Identify Chipsets,24693
 Target.Internet of Things.Recon.Internal.Identify Other Components,752
