@@ -191,6 +191,10 @@ Target.Internet of Things.Recon.Internal,
 Target.Internet of Things.Recon.Internal.Identify Chipsets,24693
 Target.Internet of Things.Recon.Internal.Identify Other Components,752
 Target.Internet of Things.Recon.Internal.Copper Tracing,755
+Target.Internet of Things.Recon.Internal,Interface Pinouts,
+Target.Internet of Things.Recon.Internal.Interface Pinouts.Multimeter,24697
+Target.Internet of Things.Recon.Internal.Interface Pinouts.Logic Analyzer,787
+Target.Internet of Things.Recon.Internal.Interface Pinouts.JTAGulator,795
 Target.Internet of Things.controls,
 Target.Internet of Things.controls.AnchorControl,2138
 Target.Internet of Things.controls.ClickControl,3824
