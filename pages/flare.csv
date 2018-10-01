@@ -47,18 +47,6 @@ Target.Internet of Things.Recon.Internal.Interface Pinouts,
 Target.Internet of Things.Recon.Internal.Interface Pinouts.Multimeter,24697
 Target.Internet of Things.Recon.Internal.Interface Pinouts.Logic Analyzer,787
 Target.Internet of Things.Recon.Internal.Interface Pinouts.JTAGulator,795
-Target.Internet of Things.controls,
-Target.Internet of Things.controls.AnchorControl,2138
-Target.Internet of Things.controls.ClickControl,3824
-Target.Internet of Things.controls.Control,1353
-Target.Internet of Things.controls.ControlList,4665
-Target.Internet of Things.controls.DragControl,2649
-Target.Internet of Things.controls.ExpandControl,2832
-Target.Internet of Things.controls.HoverControl,4896
-Target.Internet of Things.controls.IControl,763
-Target.Internet of Things.controls.PanZoomControl,5222
-Target.Internet of Things.controls.SelectionControl,7862
-Target.Internet of Things.controls.TooltipControl,8435
 Target.Internet of Things.Testing,
 Target.Internet of Things.Testing.Connect to Interface,
 Target.Internet of Things.Testing.Connect to Interface.Indentify Baudrate,20301
@@ -72,66 +60,3 @@ Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated,
 Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Password in Firmware?,20544
 Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Bruteforce Password?,20555
 Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Bootload Attacks,20556
-Target.Internet of Things.Testing.DataList,19788
-Target.Internet of Things.Testing.DataSprite,10349
-Target.Internet of Things.Testing.EdgeSprite,3301
-Target.Internet of Things.Testing.NodeSprite,19382
-Target.Internet of Things.Testing.render,
-Target.Internet of Things.Testing.render.ArrowType,698
-Target.Internet of Things.Testing.render.EdgeRenderer,5569
-Target.Internet of Things.Testing.render.IRenderer,353
-Target.Internet of Things.Testing.render.ShapeRenderer,2247
-Target.Internet of Things.Testing.ScaleBinding,11275
-Target.Internet of Things.Testing.Tree,7147
-Target.Internet of Things.Testing.TreeBuilder,9930
-Target.Internet of Things.events,
-Target.Internet of Things.events.DataEvent,2313
-Target.Internet of Things.events.SelectionEvent,1880
-Target.Internet of Things.events.TooltipEvent,1701
-Target.Internet of Things.events.visualizationEvent,1117
-Target.Internet of Things.legend,
-Target.Internet of Things.legend.Legend,20859
-Target.Internet of Things.legend.LegendItem,4614
-Target.Internet of Things.legend.LegendRange,10530
-Target.Internet of Things.operator,
-Target.Internet of Things.operator.distortion,
-Target.Internet of Things.operator.distortion.BifocalDistortion,4461
-Target.Internet of Things.operator.distortion.Distortion,6314
-Target.Internet of Things.operator.distortion.FisheyeDistortion,3444
-Target.Internet of Things.operator.encoder,
-Target.Internet of Things.operator.encoder.ColorEncoder,3179
-Target.Internet of Things.operator.encoder.Encoder,4060
-Target.Internet of Things.operator.encoder.PropertyEncoder,4138
-Target.Internet of Things.operator.encoder.ShapeEncoder,1690
-Target.Internet of Things.operator.encoder.SizeEncoder,1830
-Target.Internet of Things.operator.filter,
-Target.Internet of Things.operator.filter.FisheyeTreeFilter,5219
-Target.Internet of Things.operator.filter.GraphDistanceFilter,3165
-Target.Internet of Things.operator.filter.visibilityFilter,3509
-Target.Internet of Things.operator.IOperator,1286
-Target.Internet of Things.operator.label,
-Target.Internet of Things.operator.label.Labeler,9956
-Target.Internet of Things.operator.label.RadialLabeler,3899
-Target.Internet of Things.operator.label.StackedAreaLabeler,3202
-Target.Internet of Things.operator.layout,
-Target.Internet of Things.operator.layout.AxisLayout,6725
-Target.Internet of Things.operator.layout.BundledEdgeRouter,3727
-Target.Internet of Things.operator.layout.CircleLayout,9317
-Target.Internet of Things.operator.layout.CirclePackingLayout,12003
-Target.Internet of Things.operator.layout.DendrogramLayout,4853
-Target.Internet of Things.operator.layout.ForceDirectedLayout,8411
-Target.Internet of Things.operator.layout.IcicleTreeLayout,4864
-Target.Internet of Things.operator.layout.IndentedTreeLayout,3174
-Target.Internet of Things.operator.layout.Layout,7881
-Target.Internet of Things.operator.layout.NodeLinkTreeLayout,12870
-Target.Internet of Things.operator.layout.PieLayout,2728
-Target.Internet of Things.operator.layout.RadialTreeLayout,12348
-Target.Internet of Things.operator.layout.RandomLayout,870
-Target.Internet of Things.operator.layout.StackedAreaLayout,9121
-Target.Internet of Things.operator.layout.TreeMapLayout,9191
-Target.Internet of Things.operator.Operator,2490
-Target.Internet of Things.operator.OperatorList,5248
-Target.Internet of Things.operator.OperatorSequence,4190
-Target.Internet of Things.operator.OperatorSwitch,2581
-Target.Internet of Things.operator.SortOperator,2023
-Target.Internet of Things.visualization,16540
