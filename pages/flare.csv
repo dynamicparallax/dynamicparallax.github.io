@@ -73,7 +73,7 @@ Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Pas
 Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Bruteforce Password?,20555
 Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Bootload Attacks,20556
 Target.Internet of Things.Testing.Analyze Firmware,
-Target.Internet of Things.Testing.Analyze Firmware.Encrytped Firmware?.Encryption type Used
+Target.Internet of Things.Testing.Analyze Firmware.Encrytped Firmware?.Encryption type Used,
 Target.Internet of Things.Testing.Analyze Firmware.Encrytped Firmware?.Encryption type Used.hexdump,3727
 Target.Internet of Things.Testing.Analyze Firmware.Encrytped Firmware?.Encryption type Used.strings,6725
 Target.Internet of Things.Testing.Analyze Firmware.Encrytped Firmware?.Encryption type Used.binwalk,2876
