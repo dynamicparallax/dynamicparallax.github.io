@@ -50,6 +50,7 @@ Target.Internet of Things.Recon.Internal.Interface Pinouts.JTAGulator,795
 Target.Internet of Things.Testing,
 Target.Internet of Things.Testing.Connect to Interface,
 Target.Internet of Things.Testing.Connect to Interface.Indentify Baudrate,20301
+Target.Internet of Things.Testing.Connect to Interface.Default Passwords,20304
 Target.Internet of Things.Testing.Connect to Interface.Shell,
 Target.Internet of Things.Testing.Connect to Interface.Shell.Authenticated,
 Target.Internet of Things.Testing.Connect to Interface.Shell.Authenticated.Dump Firmware,20302
