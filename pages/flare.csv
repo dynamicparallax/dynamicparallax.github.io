@@ -61,3 +61,8 @@ Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated,
 Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Password in Firmware?,20544
 Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Bruteforce Password?,20555
 Target.Internet of Things.Testing.Connect to Interface.Shell.Unauthenticated.Bootload Attacks,20556
+Target.Infrastucture,
+Target.Infrastucture.Web,
+Target.Infrastucture.Web.Top Level Domain,
+Target.Infrastucture.Web.Top Level Domain.target.com,
+Target.Infrastucture.Web.Top Level Domain.target.com.List of IPs, 753
