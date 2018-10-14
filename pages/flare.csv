@@ -66,3 +66,7 @@ Target.Infrastucture.Web,
 Target.Infrastucture.Web.Top Level Domain,
 Target.Infrastucture.Web.Top Level Domain.target website,
 Target.Infrastucture.Web.Top Level Domain.target website.List of IPs,21537
+Target.Infrastucture.List subdomains,
+Target.Infrastucture.List subdomains.subbrute,23445
+Target.Infrastucture.List subdomains.Sublist3r,23543
+Target.Infrastucture.List subdomains.CLoudflare Enumeration Tool,23412
