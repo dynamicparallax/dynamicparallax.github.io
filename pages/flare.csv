@@ -89,8 +89,3 @@ Target.Infrastucture.Web.Recon and Mapping.Emails,
 Target.Infrastucture.Web.Recon and Mapping.Emails.Gather Addresses,
 Target.Infrastucture.Web.Recon and Mapping.Emails.Gather Addresses.theharvester,11567
 Target.Infrastucture.Web.Recon and Mapping.Emails.Gather Addresses.Maltego,11909
-Target.Infrastucture.Web.Recon and Mapping.Emails.Verify Addresses,
-Target.Infrastucture.Web.Recon and Mapping.Emails.Verify Addresses.hunter_io,2876
-Target.Infrastucture.Web.Recon and Mapping.Emails.Verify Addresses.Facebook,2899
-Target.Infrastucture.Web.Recon and Mapping.Emails.Verify Addresses.haveibeenpwned,2856
-Target.Infrastucture.Web.Recon and Mapping.Emails.Verify Addresses.Search Engines,2823
