@@ -66,15 +66,3 @@ Target.Infrastucture.Web,
 Target.Infrastucture.Web.Top Level Domain,
 Target.Infrastucture.Web.Top Level Domain.target website,
 Target.Infrastucture.Web.Top Level Domain.target website.List of IPs,21537
-Target.Infrastucture.Web.List subdomains,
-Target.Infrastucture.Web.List subdomains.subbrute,23445
-Target.Infrastucture.Web.List subdomains.Sublist3r,23543
-Target.Infrastucture.Web.List subdomains.Cloudflare Enumeration Tool,23412
-Target.Infrastucture.Web.Recon and Mapping,
-Target.Infrastucture.Web.Recon and Mapping.Brute-force Files and Directories,
-Target.Infrastucture.Web.Recon and Mapping.Brute-force Files and Directories.gobuster,22987
-Target.Infrastucture.Web.Recon and Mapping.Brute-force Files and Directories.dirsearch,22786
-Target.Infrastucture.Web.Recon and Mapping.Brute-force Files and Directories.DirBuster,22467
-Target.Infrastucture.Web.Recon and Mapping.Public Vulnerabilities-leaks or attacks,25432
-Target.Infrastucture.Web.Recon and Mapping.Google Hacking Database.exploit-db,27654
-Target.Infrastucture.Web.Recon and Mapping.Discover new Endpoints from JS files.JSParser,34543
