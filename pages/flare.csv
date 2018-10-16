@@ -75,3 +75,5 @@ Target.Infrastucture.Web.Recon.Brute-force Directories,
 Target.Infrastucture.Web.Recon.Brute-force Directories.gobuster,22987
 Target.Infrastucture.Web.Recon.Brute-force Directories.dirsearch,22786
 Target.Infrastucture.Web.Recon.Brute-force Directories.DirBuster,22467
+Target.Infrastucture.Web.Recon.Public Vulnerabilities-leaks or attacks,25432
+Target.Infrastucture.Web.Recon.Google Hacking Database.exploit-db,27654
