@@ -73,3 +73,4 @@ Target.Infrastucture.Web.List subdomains.Cloudflare Enumeration Tool,23412
 Target.Infrastucture.Web.Recon,
 Target.Infrastucture.Web.Recon.Brute-force Directories,
 Target.Infrastucture.Web.Recon.Brute-force Directories.gobuster,22987
+Target.Infrastucture.Web.Recon.Brute-force Directories.dirsearch,22786
