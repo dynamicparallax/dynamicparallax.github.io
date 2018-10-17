@@ -82,8 +82,3 @@ Target.Infrastucture.Web.Recon.Discover New Endpoints,
 Target.Infrastucture.Web.Recon.Discover New Endpoints.JSParser,24543
 Target.Infrastucture.Web.Recon.CDN misconfigurations,
 Target.Infrastucture.Web.Recon.CDN misconfigurations.bucket_finder,54323
-Target.Infrastucture.Web.Recon.CDN misconfigurations.lazy3,54678
-Target.Infrastucture.Web.Recon.CDN misconfigurations.teh_s3_bucketeers,54876
-Target.Infrastucture.Web.Recon.Meta Data Gathering.Documents,
-Target.Infrastucture.Web.Recon.Meta Data Gathering.Documents.Foca,23009
-Target.Infrastucture.Web.Recon.Meta Data Gathering.Documents.recon-ng (metacrawler),23007
