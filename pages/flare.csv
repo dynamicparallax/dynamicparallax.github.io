@@ -80,3 +80,19 @@ Target.Infrastucture.Web.Recon.Google Hacking Database,
 Target.Infrastucture.Web.Recon.Google Hacking Database.exploitdb,25659
 Target.Infrastucture.Web.Recon.Discover New Endpoints,
 Target.Infrastucture.Web.Recon.Discover New Endpoints.JSParser,24543
+Target.Infrastucture.Web.Recon.CDN misconfigurations,
+Target.Infrastucture.Web.Recon.CDN misconfigurations.bucket_finder,54323
+Target.Infrastucture.Web.Recon.CDN misconfigurations.lazy3,54678
+Target.Infrastucture.Web.Recon.CDN misconfigurations.teh_s3_bucketeers,54876
+Target.Infrastucture.Web.Recon.Meta Data Gathering.Documents,
+Target.Infrastucture.Web.Recon.Meta Data Gathering.Documents.Foca,23009
+Target.Infrastucture.Web.Recon.Meta Data Gathering.Documents.recon-ng (metacrawler),23007
+Target.Infrastucture.Web.Recon.Emails,
+Target.Infrastucture.Web.Recon.Emails.Gather Addresses,
+Target.Infrastucture.Web.Recon.Emails.Gather Addresses.theharvester,11567
+Target.Infrastucture.Web.Recon.Emails.Gather Addresses.Maltego,11909
+Target.Infrastucture.Web.Recon.Emails.Verify Addresses,
+Target.Infrastucture.Web.Recon.Emails.Verify Addresses.hunter-io,2876
+Target.Infrastucture.Web.Recon.Emails.Verify Addresses.Facebook,2899
+Target.Infrastucture.Web.Recon.Emails.Verify Addresses.haveibeenpwned,2856
+Target.Infrastucture.Web.Recon.Emails.Verify Addresses.Search Engines,2823
