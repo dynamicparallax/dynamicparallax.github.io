@@ -162,5 +162,11 @@ Target.Infrastucture.Web.Test.Session Management Mechanism.Test Session Terminat
 Target.Infrastucture.Web.Test.Session Management Mechanism.Check for Session Fixation,2819
 Target.Infrastucture.Web.Test.Session Management Mechanism.Check for CSRF,7293
 Target.Infrastucture.Web.Test.Session Management Mechanism.Check for Cookie Scope,1134
+Target.Infrastucture.Web.Test.Web Server Vulnerabilities,
+Target.Infrastucture.Web.Test.Web Server Vulnerabilities.Test for Default Credentials,97667
+Target.Infrastucture.Web.Test.Web Server Vulnerabilities.Test for Default Content,97757
+Target.Infrastucture.Web.Test.Web Server Vulnerabilities.Test for Dangerous HTTP Methods,87567
+Target.Infrastucture.Web.Test.Web Server Vulnerabilities.Test for Proxy Functionality,54671
+Target.Infrastucture.Web.Test.Web Server Vulnerabilities.Test for Virtual Hosting Misconfiguration,36192
+Target.Infrastucture.Web.Test.Web Server Vulnerabilities.Test for Web Server Software bugs,52818
 
-Target.Infrastucture.Web.Test.Session Management Mechanism.
