@@ -126,3 +126,9 @@ Target.Infrastucture.Web.Test.Access Controls.Access Control Requirements,9657
 Target.Infrastucture.Web.Test.Access Controls.Testing with Multiple Accounts,34569
 Target.Infrastucture.Web.Test.Access Controls.Testing with Limited Access,75457
 Target.Infrastucture.Web.Test.Access Controls.Test for Insecure Access Control Methods,45763
+Target.Infrastucture.Web.Test.Logic Flaws,
+Target.Infrastucture.Web.Test.Logic Flaws.Identify the Key Attack Surface,13522
+Target.Infrastucture.Web.Test.Logic Flaws.Test Multistage Processes,41626
+Target.Infrastucture.Web.Test.Logic Flaws.Test Handling of Incomplete Input,41234
+Target.Infrastucture.Web.Test.Logic Flaws.Test Trust Boundaries,41332
+Target.Infrastucture.Web.Test.Logic Flaws.Test Transaction Logic,41223
