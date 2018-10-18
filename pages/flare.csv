@@ -141,3 +141,26 @@ Target.Infrastucture.Web.Test.Authentication Mechanism.Test for Username Enumera
 Target.Infrastucture.Web.Test.Authentication Mechanism.Test for Username Enumeration.Forgot Password.Timing requests,5611
 Target.Infrastucture.Web.Test.Authentication Mechanism.Test for Username Enumeration.Signup page,477
 Target.Infrastucture.Web.Test.Authentication Mechanism.Test for Username Enumeration.Change Username,4182
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test Resilience to Password Guessing,1251
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test Any Account Recovery Function,1255
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test Any Remember Me Function,1287
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test Any Impersonation Function,1288
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test Username Uniqueness,
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test Username Uniqueness.Test for company internal domains,42662
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test Predictability of Auto-Generated Credentials,52782
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test for Unsafe Transmission of Credentials,52781
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test for Logic Flaws,1926
+Target.Infrastucture.Web.Test.Authentication Mechanism.Exploit Vulnerabilities to Gain Unauthorized Access,6283
+Target.Infrastucture.Web.Test.Session Management Mechanism,
+Target.Infrastucture.Web.Test.Session Management Mechanism.Understand the Mechanism,6786
+Target.Infrastucture.Web.Test.Session Management Mechanism.Test Tokens for Meaning,26837
+Target.Infrastucture.Web.Test.Session Management Mechanism.Test Tokens for Predictability,28211
+Target.Infrastucture.Web.Test.Session Management Mechanism.Check for Insecure Transmission of Tokens,13253
+Target.Infrastucture.Web.Test.Session Management Mechanism.Check for Disclosure of Tokens in Logs,91838
+Target.Infrastucture.Web.Test.Session Management Mechanism.Check Mapping of Tokens to Sessions,26382
+Target.Infrastucture.Web.Test.Session Management Mechanism.Test Session Termination,19373
+Target.Infrastucture.Web.Test.Session Management Mechanism.Check for Session Fixation,2819
+Target.Infrastucture.Web.Test.Session Management Mechanism.Check for CSRF,7293
+Target.Infrastucture.Web.Test.Session Management Mechanism.Check for Cookie Scope,1134
+
+Target.Infrastucture.Web.Test.Session Management Mechanism.
