@@ -116,3 +116,6 @@ Target.Infrastucture.Web.Recon.other domains.Nerdydata with Analytics UA,
 Target.Infrastucture.Web.Recon.other domains.Nerdydata with Analytics UA.nerdydata-com,4526
 Target.Infrastucture.Web.Recon.other domains.Reverse IP domain,
 Target.Infrastucture.Web.Recon.other domains.Reverse IP domain.yougetsignal-com,43673
+Target.Infrastucture.Web.Test,
+Target.Infrastucture.Web.Test.Clients Side Controls,
+Target.Infrastucture.Web.Test.Clients Side Controls.Test Transmission of Data via the Client,21342
