@@ -145,3 +145,9 @@ Target.Infrastucture.Web.Test.Authentication Mechanism.Test Resilience to Passwo
 Target.Infrastucture.Web.Test.Authentication Mechanism.Test Any Account Recovery Function,1255
 Target.Infrastucture.Web.Test.Authentication Mechanism.Test Any Remember Me Function,1287
 Target.Infrastucture.Web.Test.Authentication Mechanism.Test Any Impersonation Function,1288
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test Username Uniqueness,
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test Username Uniqueness.Test for company internal domains,42662
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test Predictability of Auto-Generated Credentials,52782
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test for Unsafe Transmission of Credentials,52781
+Target.Infrastucture.Web.Test.Authentication Mechanism.Test for Logic Flaws,1926
+Target.Infrastucture.Web.Test.Authentication Mechanism.Exploit Vulnerabilities to Gain Unauthorized Access,6283
