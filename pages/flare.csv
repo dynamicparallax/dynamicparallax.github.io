@@ -156,4 +156,3 @@ Target.Infrastucture.Web.Test.Authentication Mechanism.Test Username Uniqueness.
 Target.Infrastucture.Web.Test.Authentication Mechanism.Test Predictability of Auto-Generated Credentials,52782
 Target.Infrastucture.Web.Test.Authentication Mechanism.Test for Unsafe Transmission of Credentials,52781
 Target.Infrastucture.Web.Test.Authentication Mechanism.Test for Logic Flaws,1926
-Target.Infrastucture.Web.Test.Authentication Mechanism.Exploit Vulnerabilities to Gain Unauthorized Access,6283
