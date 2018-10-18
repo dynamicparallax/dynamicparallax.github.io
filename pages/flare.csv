@@ -121,3 +121,8 @@ Target.Infrastucture.Web.Test.Clients Side Controls,
 Target.Infrastucture.Web.Test.Clients Side Controls.Test Transmission of Data via the Client,21342
 Target.Infrastucture.Web.Test.Clients Side Controls.Test Client-side Control Over User Input,54352
 Target.Infrastucture.Web.Test.Clients Side Controls.Test Thick-client Components,34569
+Target.Infrastucture.Web.Test.Access Controls,
+Target.Infrastucture.Web.Test.Access Controls.Access Control Requirements,9657
+Target.Infrastucture.Web.Test.Access Controls.Testing with Multiple Accounts,34569
+Target.Infrastucture.Web.Test.Access Controls.Testing with Limited Access,75457
+Target.Infrastucture.Web.Test.Access Controls.Test for Insecure Access Control Methods,45763
