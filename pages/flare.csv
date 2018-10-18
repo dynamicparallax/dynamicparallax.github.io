@@ -97,3 +97,15 @@ Target.Infrastucture.Web.Recon.Emails.Verify Addresses.hunter-io,2876
 Target.Infrastucture.Web.Recon.Emails.Verify Addresses.Facebook,2899
 Target.Infrastucture.Web.Recon.Emails.Verify Addresses.haveibeenpwned,2856
 Target.Infrastucture.Web.Recon.Emails.Verify Addresses.Search Engines,2823
+Target.Infrastucture.Web.Recon.Wayback Machine,
+Target.Infrastucture.Web.Recon.Wayback Machine.archive-org,18789
+Target.Infrastucture.Web.Recon.Social Media,
+Target.Infrastucture.Web.Recon.Social Media.facebook,81978
+Target.Infrastucture.Web.Recon.Social Media.linkedin,81977
+Target.Infrastucture.Web.Recon.Social Media.twitter,81972
+Target.Infrastucture.Web.Recon.Technology Profile,
+Target.Infrastucture.Web.Recon.Technology Profile.builtwith-com,63827
+Target.Infrastucture.Web.Recon.Technology Profile.wappalyzer-com,63826
+Target.Infrastucture.Web.Recon.Technology Profile.w3techs-com,62883
+Target.Infrastucture.Web.Recon.Technology Profile.toolbar-netcraft-com,62383
+Target.Infrastucture.Web.Recon.Technology Profile.whatcms-org,62836
