@@ -151,3 +151,14 @@ Target.Infrastucture.Web.Test.Authentication Mechanism.Test Predictability of Au
 Target.Infrastucture.Web.Test.Authentication Mechanism.Test for Unsafe Transmission of Credentials,52781
 Target.Infrastucture.Web.Test.Authentication Mechanism.Test for Logic Flaws,1926
 Target.Infrastucture.Web.Test.Authentication Mechanism.Exploit Vulnerabilities Gain Access,6283
+Target.Infrastucture.Web.Test.Session Management Mechanism,
+Target.Infrastucture.Web.Test.Session Management Mechanism.Understand the Mechanism,6786
+Target.Infrastucture.Web.Test.Session Management Mechanism.Test Tokens for Meaning,26837
+Target.Infrastucture.Web.Test.Session Management Mechanism.Test Tokens for Predictability,28211
+Target.Infrastucture.Web.Test.Session Management Mechanism.Check for Insecure Transmission of Tokens,13253
+Target.Infrastucture.Web.Test.Session Management Mechanism.Check for Disclosure of Tokens in Logs,91838
+Target.Infrastucture.Web.Test.Session Management Mechanism.Check Mapping of Tokens to Sessions,26382
+Target.Infrastucture.Web.Test.Session Management Mechanism.Test Session Termination,19373
+Target.Infrastucture.Web.Test.Session Management Mechanism.Check for Session Fixation,2819
+Target.Infrastucture.Web.Test.Session Management Mechanism.Check for CSRF,7293
+Target.Infrastucture.Web.Test.Session Management Mechanism.Check for Cookie Scope,1134
