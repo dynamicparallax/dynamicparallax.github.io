@@ -177,3 +177,8 @@ Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for XSS and Other
 Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for XSS and Other Response Injection.TPLMap,21456
 Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for XSS and Other Response Injection.XSS Hunter,21976
 Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for XSS and Other Response Injection.XSSSniper,21176
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for OS Command Injection,
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for OS Command Injection.Commix,57678
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for Path Traversal,
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for Path Traversal.dotdotpwn,56554
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for Path Traversal.Panoptic,56473
