@@ -169,3 +169,12 @@ Target.Infrastucture.Web.Test.Web Server Vulnerabilities.Test for Dangerous HTTP
 Target.Infrastucture.Web.Test.Web Server Vulnerabilities.Test for Proxy Functionality,54671
 Target.Infrastucture.Web.Test.Web Server Vulnerabilities.Test for Virtual Hosting Misconfiguration,36192
 Target.Infrastucture.Web.Test.Web Server Vulnerabilities.Test for Web Server Software bugs,52818
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities,
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Fuzz all Request Parameters,21733
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for SQL Injection,
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for SQL Injection.sqlmap,21678
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for XSS and Other Response Injection,
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for XSS and Other Response Injection.TPLMap,21456
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for XSS and Other Response Injection.XSS Hunter,21976
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for XSS and Other Response Injection.XSSSniper,21576
+
