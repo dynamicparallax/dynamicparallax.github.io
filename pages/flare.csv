@@ -194,3 +194,9 @@ Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for DOM based att
 Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for Race Conditions,9912
 Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for Object Injection,9982
 Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for HTML Injection,9917
+Target.Infrastucture.Web.Test.Misc Check,
+Target.Infrastucture.Web.Test.Misc Check.Check for Frame Injection,
+Target.Infrastucture.Web.Test.Misc Check.Check for Frame Injection.savanttools_com,7723
+Target.Infrastucture.Web.Test.Misc Check.Check for Local Privacy Vulnerabilities,7781
+Target.Infrastucture.Web.Test.Misc Check.Follow up any information leakage,7734
+Target.Infrastucture.Web.Test.Misc Check.Tabnabbing,7790
