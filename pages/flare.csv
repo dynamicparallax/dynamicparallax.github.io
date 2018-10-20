@@ -182,3 +182,15 @@ Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for OS Command In
 Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for Path Traversal,
 Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for Path Traversal.dotdotpwn,56554
 Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for Path Traversal.Panoptic,56473
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for Script Injection,6743
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for File Inclusion,
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for File Inclusion.fimap,6711
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for File Inclusion.LFIsuite,6723
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for XXE,
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for XXE.XXEinjector,6843
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for XXE.oxml_xxe,5632
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for XXE.xxe_sh,6511
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for DOM based attacks,9987
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for Race Conditions,9912
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for Object Injection,9982
+Target.Infrastucture.Web.Test.Input-based Vulnerabilities.Test for HTML Injection,9917
