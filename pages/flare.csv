@@ -203,7 +203,7 @@ Target.Infrastucture.Web.Test.Misc Check.Tabnabbing,7790
 Target.Infrastucture.Web.Test.SSL and Security headers testing,
 Target.Infrastucture.Web.Test.SSL and Security headers testing.observatory_mozilla_org,12311
 Target.Infrastucture.Web.Test.API,
-Target.Infrastucture.Web.Test.API,Authentication,
-Target.Infrastucture.Web.Test.API,Authentication.Check for  Basic Auth,3334
-Target.Infrastucture.Web.Test.API,Authentication.Test Max Retry and jail features in Login,3312
-Target.Infrastucture.Web.Test.API,Authentication.Check sensitive data without encryption,3399
+Target.Infrastucture.Web.Test.API.Authentication,
+Target.Infrastucture.Web.Test.API.Authentication.Check for  Basic Auth,3334
+Target.Infrastucture.Web.Test.API.Authentication.Test Max Retry and jail features in Login,3312
+Target.Infrastucture.Web.Test.API.Authentication.Check sensitive data without encryption,3399
