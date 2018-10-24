@@ -207,3 +207,15 @@ Target.Infrastucture.Web.Test.API.Authentication,
 Target.Infrastucture.Web.Test.API.Authentication.Check for  Basic Auth,3334
 Target.Infrastucture.Web.Test.API.Authentication.Test Max Retry and jail features in Login,3312
 Target.Infrastucture.Web.Test.API.Authentication.Check sensitive data without encryption,3399
+Target.Infrastucture.Web.Test.API.JWT,
+Target.Infrastucture.Web.Test.API.JWT.Test JWT secret brute-forcing,
+Target.Infrastucture.Web.Test.API.JWT.Test JWT secret brute-forcing.jwt_tool,21521
+Target.Infrastucture.Web.Test.API.JWT.Test if algorithm could be changed,
+Target.Infrastucture.Web.Test.API.JWT.Test if algorithm could be changed.jwt_io,21468
+Target.Infrastucture.Web.Test.API.JWT.Test TTL and RTTL,98725
+Target.Infrastucture.Web.Test.API.JWT.Test is sensitive data is in the JWT,
+Target.Infrastucture.Web.Test.API.JWT.Test is sensitive data is in the JWT.jwt_io,21984
+Target.Infrastucture.Web.Test.API.OAuth,
+Target.Infrastucture.Web.Test.API.OAuth.Test redirect_uri for open redirects,55432
+Target.Infrastucture.Web.Test.API.OAuth.Test the existence of response_type=token,55186
+Target.Infrastucture.Web.Test.API.OAuth.Test CSRF,55987
