@@ -24,7 +24,7 @@
 }
 
 </style>
-<svg width="900" height="4000"></svg>
+<svg width="1000" height="4000"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
