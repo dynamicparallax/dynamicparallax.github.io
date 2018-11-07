@@ -223,3 +223,8 @@ Target.Infrastucture.Web.Test.API.Access,
 Target.Infrastucture.Web.Test.API.Access.Test brute-force attacks,92763
 Target.Infrastucture.Web.Test.API.Access.Find http requests,74394
 Target.Infrastucture.Web.Test.API.Access.Test lack of HSTS header,73574
+Target.Infrastucture.Web.Test.API.Input,
+Target.Infrastucture.Web.Test.API.Input.Test different HTTP methods (GET POST PUT DELETE PATCH),79374
+Target.Infrastucture.Web.Test.API.Input.Test different content-types,74528
+Target.Infrastucture.Web.Test.API.Input.Test for common vulnerabilities (XSS SQL injection RCE XXE),73937
+Target.Infrastucture.Web.Test.API.Input.Test for URL sensitive data (password tokens API keys),78348
