@@ -219,3 +219,7 @@ Target.Infrastucture.Web.Test.API.OAuth,
 Target.Infrastucture.Web.Test.API.OAuth.Test redirect_uri for open redirects,55432
 Target.Infrastucture.Web.Test.API.OAuth.Test the existence of response_type=token,55186
 Target.Infrastucture.Web.Test.API.OAuth.Test CSRF,55987
+Target.Infrastucture.Web.Test.API.Access,
+Target.Infrastucture.Web.Test.API.Access.Test brute-force attacks,92763
+Target.Infrastucture.Web.Test.API.Access.Find http requests,74394
+Target.Infrastucture.Web.Test.API.Access.Test lack of HSTS header,73574
