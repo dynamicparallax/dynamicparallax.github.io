@@ -228,3 +228,7 @@ Target.Infrastucture.Web.Test.API.Input.Test different HTTP methods (GET POST PU
 Target.Infrastucture.Web.Test.API.Input.Test different content-types,74528
 Target.Infrastucture.Web.Test.API.Input.Test for common vulnerabilities (XSS SQL injection RCE XXE),73937
 Target.Infrastucture.Web.Test.API.Input.Test for URL sensitive data (password tokens API keys),78348
+Target.Infrastucture.Web.Test.API.Processing,
+Target.Infrastucture.Web.Test.API.Processing.Check is all endpoints are protected,43784
+Target.Infrastucture.Web.Test.API.Processing.Check if resource ID is used in the URL (eg. /user/6436/orders),74768
+Target.Infrastucture.Web.Test.API.Processing.Test for debug on,73532
