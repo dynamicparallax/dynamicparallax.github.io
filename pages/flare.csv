@@ -239,3 +239,12 @@ Target.Infrastucture.Web.Test.API.Output.Check for Content-Security-Policy: defa
 Target.Infrastucture.Web.Test.API.Output.Check for fingerprinting headers,47675
 Target.Infrastucture.Web.Test.API.Output.Check for content-type forcing,47909
 Target.Infrastucture.Web.Test.API.Output.Check for return sensitive data,47228
+Target.Infrastucture.Web.Test.Subdomain Takeover,
+Target.Infrastucture.Web.Test.Subdomain Takeover.HostileSubBruteforcer,96804
+Target.Infrastucture.Web.Test.CMS,
+Target.Infrastucture.Web.Test.CMS.Wordpress,
+Target.Infrastucture.Web.Test.CMS.Wordpress.wpscan,98788
+Target.Infrastucture.Web.Test.CMS.Wordpress.WPSeku,98923
+Target.Infrastucture.Web.Test.CMS.Joomla,
+Target.Infrastucture.Web.Test.CMS.Joomla.joomScan,1123
+Target.Infrastucture.Web.Test.CMS.Joomla.joomlavs,1154
