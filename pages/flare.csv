@@ -234,3 +234,8 @@ Target.Infrastucture.Web.Test.API.Processing.Check if resource ID is used in the
 Target.Infrastucture.Web.Test.API.Processing.Test for debug on,73532
 Target.Infrastucture.Web.Test.API.Output,
 Target.Infrastucture.Web.Test.API.Output.Check for X-Content-Type-Options: nosniff,47849
+Target.Infrastucture.Web.Test.API.Output.Check for X-Frame-Options: deny,47256
+Target.Infrastucture.Web.Test.API.Output.Check for Content-Security-Policy: default-src 'none',47221
+Target.Infrastucture.Web.Test.API.Output.Check for fingerprinting headers,47675
+Target.Infrastucture.Web.Test.API.Output.Check for content-type forcing,47909
+Target.Infrastucture.Web.Test.API.Output.Check for return sensitive data,47228
