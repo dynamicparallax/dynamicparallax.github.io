@@ -232,3 +232,5 @@ Target.Infrastucture.Web.Test.API.Processing,
 Target.Infrastucture.Web.Test.API.Processing.Check is all endpoints are protected,43784
 Target.Infrastucture.Web.Test.API.Processing.Check if resource ID is used in the URL,74768
 Target.Infrastucture.Web.Test.API.Processing.Test for debug on,73532
+Target.Infrastucture.Web.Test.API.Output,
+Target.Infrastucture.Web.Test.API.Output.Check for X-Content-Type-Options: nosniff,47849
