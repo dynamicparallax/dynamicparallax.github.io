@@ -8,7 +8,8 @@ description: Chris Nadeau's online resources
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#books">books</a></li>
-            <li><a href="#talks">talks</a></li>
+            <li><a href="#favorite talks">talks</a></li>
+            <li><a href="#con videos">talks</a></li>
             <li><a href="#whitepapers">whitepapers</a></li>
             <li><a href="#podcasts">podcasts</a></li>
             <li><a href="#sites">sites</a></li>
@@ -41,7 +42,7 @@ Malware Analyst's Cookbook
 Learn Windows PowerShell in a Month of Lunches
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/Learn-Windows-PowerShell-Month-Lunches/dp/1617294160/ref=dp_ob_title_bk)
 
-### <a name="talks"></a>talks
+### <a name="favorite talks"></a>favorite talks
 
 ####  2018
 
@@ -50,6 +51,14 @@ From Workstation to Domain Admin -- Why Secure Administration Isn't Secure
 
 #### 2014
 How not to suck at pen testing John Strand [![ico](icons16/youtube.ico)](https://www.youtube.com/watch?v=Yo4oP2eyDtI)
+
+### <a name="con videos"></a>con videos
+
+<a href="https://administraitor.video/" target="_blank">Administraiator.video</a>
+
+<a href="https://www.youtube.com/user/BlackHatOfficialYT" target="_blank">Black Hat</a>
+
+<a href="http://www.irongeek.com/" target="_blank">Iron Geek</a>
 
 ### <a name="whitepapers"></a>whitepapers
 
