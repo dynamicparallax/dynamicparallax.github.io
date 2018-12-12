@@ -54,7 +54,7 @@ How not to suck at pen testing John Strand [![ico](icons16/youtube.ico)](https:/
 
 ### <a name="con videos"></a>con videos
 
-<a href="https://administraitor.video/" target="_blank">Administraiator.video</a>
+<a href="https://administraitor.video/" target="_blank">Administraitor.video</a>
 
 <a href="https://www.youtube.com/user/BlackHatOfficialYT" target="_blank">Black Hat</a>
 
